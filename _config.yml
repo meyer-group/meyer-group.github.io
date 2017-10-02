@@ -5,7 +5,7 @@ locale: en_US
 description: Karsten Meyer at University of Erlangen-Nuremberg
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+# url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -15,9 +15,9 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-#gems:
-#  - jekyll-sitemap
-#  - jekyll-gist
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
 #  - jekyll-feed
 
 kramdown:
