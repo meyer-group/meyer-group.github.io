@@ -56,12 +56,12 @@ def process(p):
 		pub['jour'] = re.sub('\s+', ' ', " ".join(jour))
 
 		# links:
-		pub['links'] = map(lambda x: {'text': re.sub('\s+', ' ', x.get_text()), 'href': x['href']}, p.find_all('a'))
+		pub['links'] = map(lambda x: {'text': re.sub('\s+', ' ', x.get_text().trim()), 'href': x['href']}, p.find_all('a'))
 	
 	except Exception as e:
-		print('muh')
 		print(e)
 		print(p)
+		print(traceback.format_exc())
 		raise e
 	return pub
 
@@ -75,9 +75,9 @@ for g in pubs:
 			parsed = process(p)
 			pubs[g].append(parsed)
 		except KeyError as k:
+			# from ['class'], ignore.
 			pass
 		except Exception as e:
-			print('meh')
 			print(e)
 			print(traceback.format_exc())
 
