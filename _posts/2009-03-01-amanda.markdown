@@ -1,0 +1,16 @@
+---
+date: 2009-03-01
+layout: post
+title: "New Postdoc: Amanda E. King"
+---
+
+Amanda E. King (University of Wisconsin, Madison) has been awarded an Alexander von Humboldt postdoctoral fellowship. 
+Please join us in congratulating Amanda on this well deserved honor!
+
+Amanda is currently working on her PhD thesis under the supervision of Profs. Shannon Stahl and Thomas Brunold. 
+She is expected to join the Meyer lab for her postdoctoral studies in fall 2009. 
+Amanda will be studying aspects of catalytic H2O oxidation, such as the  mechanism of oxygen – oxygen bond formation in high-valent transition metal oxo and hydroxo complexes. 
+These studies are relevant to photo-catalytic water splitting chemistry as observed in the  biological oxygen-evolving complex (OEC) of Photosystem II. 
+The Meyer group is eagerly anticipating her arrival and extends our heartiest congratulations to Amanda!                         
+
+![Amanda](img/AEKing.JPG)

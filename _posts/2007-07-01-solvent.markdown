@@ -1,0 +1,11 @@
+---
+date: 2007-07-01
+layout: post
+title: "New Solvent Purification System"
+---
+
+A brand new solvent purification system (Glasscontour by George & Allison Meyer, Irvine, CA) for 10 solvents has been installed! 
+This system provides bone-dry and pristine solvents. 
+Standard hydrocarbon solvents such as C5, C6, benzene and toluene as well as more problematic solvents like Et2O, THF, CH2Cl2, CHCl3, CH3CN and pyridine can be obtained dry and oxygen-free.
+
+![solvent system](img/lab-solvent_system.jpg)

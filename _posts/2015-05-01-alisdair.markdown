@@ -1,0 +1,13 @@
+---
+date: 2015-05-01
+layout: post
+title: "New Visiting Student: Ally"
+---
+
+Welcome to Alisdair Formanuik! 
+Ally is student of Dr. David Mills and is visiting from  the University of Manchester, UK. 
+He will be staying for one month to gain insight into our ligand synthesis for uranium coordination chemistry.
+
+Have fun Ally! We hope you will enjoy chemistry in Germany!
+
+![Ally](img/ally_website.jpg)

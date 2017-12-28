@@ -1,0 +1,9 @@
+---
+date: 2006-09-01
+layout: post
+title: "Group Photo"
+---
+
+Our group @ fau erlangen-nuremberg in summer 2006. 
+
+![Meyer Group](img/group@fau2006.jpg)

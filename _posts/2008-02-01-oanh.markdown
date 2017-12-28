@@ -1,0 +1,11 @@
+---
+date: 2008-02-01
+layout: post
+title: "Congrats to Oanh"
+---
+
+Congratulations to PhD student Oanh Lam on her first primary-author publication entitled "Charge-Separation in Uranium Diazomethane Complexes Leading to C-H Activation and Chemical Transformation" (02/2008). 
+The JACS paper summarizes her work on C─H activation of diphenyldiazomethane using a  low-valent U(III) complex. Read the full paper. 
+It is also  being highlighted in the online technology journal Ars Technica. 
+
+![JACS TOC graphic](img/OanhJACSTOC.jpg)

@@ -1,8 +1,0 @@
----
-layout: post
-title: Ingrid, Oanh and Patrick at Stanford Synchrotron Radiation Laboratory
----
-
-Ingrid, Oanh and Patrick went to the Stanford Synchrotron Radiation Laboratory (SSRL) to collect our first XANES and XAFS data on our uranium complexes. 
-This study is carried out in collaboration with Dr. Steve Conradson and Dr. Dave Clark from the Los Alamos National Laboratories LANL) and funded through the UCSD/LANL CARE Program (CARE). 
-
