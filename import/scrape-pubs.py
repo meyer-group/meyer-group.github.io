@@ -22,9 +22,11 @@ def process(p):
 	try:
 		# author: first em, until br
 		pub['authors'] = re.sub('\s+', ' ', p.find('em').contents[0].encode('utf8').strip())
-
+		pub['authors'] = re.sub(r'\.$', '', pub['authors'])
+		
 		# title: first span
-		pub['title'] = re.sub('\s+', ' ', p.find('span').get_text().encode('utf-8').strip())
+		pub['title'] = re.sub(r'\s+', ' ', p.find('span').get_text().encode('utf-8').strip())
+		pub['title'] = re.sub(r'\.$', '', pub['title'])
 
 		# journal: nodes after the span...br, until em
 		it = p.find('span').next_sibling #.next_sibling
@@ -53,15 +55,19 @@ def process(p):
 
 			it = it.next_sibling
 
-		pub['jour'] = re.sub('\s+', ' ', " ".join(jour))
+		pub['jour'] = re.sub(r'\s+', ' ', " ".join(jour)).strip()
+		pub['jour'] = re.sub(r' ,', ',', pub['jour']).strip()
+		pub['jour'] = re.sub(r'get it here.*', '', pub['jour']).strip()
+		pub['jour'] = re.sub(r'\.$', '', pub['jour']).strip()
+
 
 		# links:
-		pub['links'] = map(lambda x: {'text': re.sub('\s+', ' ', x.get_text().trim()), 'href': x['href']}, p.find_all('a'))
+		pub['links'] = map(lambda x: {'text': re.sub('\s+', ' ', x.get_text().strip()), 'href': x['href']}, p.find_all('a'))
 	
 	except Exception as e:
-		print(e)
-		print(p)
-		print(traceback.format_exc())
+		print >> sys.stderr, e
+		print >> sys.stderr, p
+		print >> sys.stderr, traceback.format_exc()
 		raise e
 	return pub
 
@@ -78,8 +84,8 @@ for g in pubs:
 			# from ['class'], ignore.
 			pass
 		except Exception as e:
-			print(e)
-			print(traceback.format_exc())
+			print >> sys.stderr, e
+			print >> sys.stderr, traceback.format_exc()
 
-print json.dumps(pubs)
+print json.dumps(pubs, sort_keys=True, indent=4, separators=(',', ': '))
 
