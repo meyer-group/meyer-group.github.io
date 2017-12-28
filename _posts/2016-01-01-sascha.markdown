@@ -1,7 +1,8 @@
 ---
 date: 2016-01-01
 layout: post
-title: "New PhD Student: Sascha" 
+title: "New PhD Student: Sascha"
+excerpt_separator: <!--more-->
 ---
 
 A new year, a new PhD student! 
@@ -10,3 +11,5 @@ M.Sc. Sascha Löffler joined the Meyer Lab team in January to start his graduate
 Welcome Sascha!
 
 ![Sascha](/assets/img/Sascha_klein.jpg)
+
+<!--more-->
