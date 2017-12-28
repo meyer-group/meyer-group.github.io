@@ -1,0 +1,14 @@
+---
+layout: post
+title: Meeting for Coordination Chemists in Erlangen
+---
+
+On Feb. 22-24, the 5th annual meeting for coordination chemists “Koordinationschemie-Treffen 2009” was hosted by our group here in Erlangen.
+We were happy to welcome more than one hundred participants from 35 research groups from all around Germany. 
+It has become a well-established tradition that all presentations are given and chaired by graduate students. 
+The 33 exciting talks and 23 posters showcased results from the forefront of coordination chemistry, with topics ranging from small molecule activation, through precursors for modified ceramics, to  photoactive complexes for sunlight-driven hydrogen production. 
+On Monday evening, we celebrated with a “Rosenmontag Buffet” where delicious traditional meals were served accompanied by plenty of local Franconian beer. 
+The next  “Koordinationschemie-Treffen 2010” will be organized by Prof. Eva Rentschler and Prof. Katja Heinze in Mainz.
+
+![Koordinationstreffen](img/Koordinationstreffen_1.png)
+![Koordinationstreffen](img/Koordinationstreffen_2.png)

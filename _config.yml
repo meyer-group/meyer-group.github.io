@@ -1,0 +1,32 @@
+title: Meyer Group
+description: Prof. Dr. Karsten Meyer at Univ. Erlangen-Nuremberg
+
+url: http://inorganic-chemistry.net
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+exclude: ["_legacy"]
+
+navigation:
+ - title: News
+   url: /index.html
+ - title: Team
+   url: /team
+ - title: Research
+   url: /research
+ - title: Publications
+   url: /publications
+ - title: Teaching
+   url: /teaching
+
+social:
+   github: meyer-group
+   email: inorgchem2@fau.de
+
+# google_analytics: "UA-58263416-1"
