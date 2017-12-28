@@ -16,9 +16,11 @@ egerlandstrasse 1 erlangen,
 
 bavaria 91080
 
+
 germany
 
-email: kmeyer@chemie.uni-erlangen.de
+
+email: [kmeyer@chemie.uni-erlangen.de](mailto:kmeyer@chemie.uni-erlangen.de)
 
 office: +49 (0)9131 8527361 (asst) 
 
