@@ -9,4 +9,4 @@ He is sharing the award with Prof. Martin Chalfie (Columbia) and Dr. Osamu Shimo
 
 Congratulations to Roger from the Meyer Group!
 
-![Nobel Price for Profs. Tsien, Chalfie and Shimomura](img/NobelPrize.jpg)
+![Nobel Price for Profs. Tsien, Chalfie and Shimomura](/assets/img/NobelPrize.jpg)

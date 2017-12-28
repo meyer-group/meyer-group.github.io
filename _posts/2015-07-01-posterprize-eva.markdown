@@ -9,4 +9,4 @@ Her poster “An Intermediate Cobalt(IV) Nitrido Complex” was awarded with the
  
 Well done Eva! 
 
-![Eva](img/Eva_Poster_web_klein.jpg)
+![Eva](/assets/img/Eva_Poster_web_klein.jpg)

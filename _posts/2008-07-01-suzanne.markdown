@@ -10,4 +10,4 @@ Suzanne has taken an assistant professor position at Purdue University in West L
 
 We wish her the very best and success!
 
-![Suzanne Doucette](img/SuzLab.jpg)
+![Suzanne Doucette](/assets/img/SuzLab.jpg)

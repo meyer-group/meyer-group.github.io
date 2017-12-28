@@ -9,4 +9,4 @@ He is visiting us for 4 weeks to breathe life into our infamous arsenic generato
 It was build by our machine shop a while ago and has since been waiting to produce yellow arsenic for uranium chemistry. 
 We are happy to  have Alistair in town and are looking forward to lots of chemistry and  camaraderie!
 
-![Alistair](img/AlistairFrey_webseite.jpg)
+![Alistair](/assets/img/AlistairFrey_webseite.jpg)

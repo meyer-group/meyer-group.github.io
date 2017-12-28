@@ -10,4 +10,4 @@ He will support our "ionic liquids team" with his synthetic skills.
 
 Welcome to Germany, Angel!
 
-![Angel](img/Angel_klein.jpg)
+![Angel](/assets/img/Angel_klein.jpg)

@@ -11,4 +11,4 @@ After her visit in Germany, she will be moving on to Yale University (New Haven,
 Congratulations to Stephanie for securing funding from the Fulbright Foundation. 
 We are looking forward to fun times with her and are truly pleased to have her “on board”!
 
-![Stephanie](img/Laga_webseite.jpg)
+![Stephanie](/assets/img/Laga_webseite.jpg)

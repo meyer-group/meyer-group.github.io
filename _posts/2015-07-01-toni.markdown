@@ -10,4 +10,4 @@ He then proceeded to take a postdoctoral position at the University of Houston (
 At Erlangen he will be an integral part of our newly established research team for the advancement of chemical energy conversion sponsored by BMBF, "MANGAN". 
 
 
-![Toni](img/Toni_News.jpg)
+![Toni](/assets/img/Toni_News.jpg)

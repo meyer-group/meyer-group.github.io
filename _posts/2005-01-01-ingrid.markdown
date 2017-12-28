@@ -6,4 +6,4 @@ title: "Time to Write"
 
 Guess who is writing her thesis and threatening the PI with a banana?
 
-![Ingrid](img/IngridThesis.jpg)
+![Ingrid](/assets/img/IngridThesis.jpg)

@@ -10,4 +10,4 @@ He will be giving a seminar entitled "Inorganic Mixed Valency at the Delocalized
 
 Guests Cliff Kubiak (left) and Peter Wolczanski (2nd from left) with past visitors Christopher Cummins (3rd from right) and Paul Chirik (2nd from right). 
 
-![Guests Cliff Kubiak (left) and Peter Wolczanski (2nd from left) with past visitors Christopher Cummins (3rd from right) and Paul Chirik (2nd from right)](img/Kubiak.JPG)
+![Guests Cliff Kubiak (left) and Peter Wolczanski (2nd from left) with past visitors Christopher Cummins (3rd from right) and Paul Chirik (2nd from right)](/assets/img/Kubiak.JPG)

@@ -9,4 +9,4 @@ M.Sc. Sascha Löffler joined the Meyer Lab team in January to start his graduate
 
 Welcome Sascha!
 
-![Sascha](img/Sascha_klein.jpg)
+![Sascha](/assets/img/Sascha_klein.jpg)

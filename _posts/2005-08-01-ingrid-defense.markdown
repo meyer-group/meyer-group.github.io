@@ -15,4 +15,4 @@ Awesome, Ingrid!
 
 All the very best & good luck for the future! 
 
-![Ingrid PhD Defense](img/IngridsPhD.jpg)
+![Ingrid PhD Defense](/assets/img/IngridsPhD.jpg)

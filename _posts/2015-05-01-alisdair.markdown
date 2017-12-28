@@ -10,4 +10,4 @@ He will be staying for one month to gain insight into our ligand synthesis for u
 
 Have fun Ally! We hope you will enjoy chemistry in Germany!
 
-![Ally](img/ally_website.jpg)
+![Ally](/assets/img/ally_website.jpg)

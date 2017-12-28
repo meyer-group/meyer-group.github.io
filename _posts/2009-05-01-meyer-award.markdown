@@ -8,4 +8,4 @@ Karsten has been awarded an honorary membership of the Israel Chemical Society (
 He is the 29th scientist to be elected lifetime honorary member. 
 
 
-![Certificate ICS](img/k_meyer_honorary_israel_2009.jpg)
+![Certificate ICS](/assets/img/k_meyer_honorary_israel_2009.jpg)

@@ -10,4 +10,4 @@ As a result the "Institut für Anorganische Chemie" was selected as one of ‘36
 Every landmark  demonstrates the multifaceted potential of Germany as a place of innovation. 
 Congratulations to Prof. Kisch for his achievement and a big “Thank you” to him for bringing Inorganic Chemistry at Erlangen into the national limelight!
 
-![Prof. Kisch](img/Kisch_TagderChemie_web.jpg)
+![Prof. Kisch](/assets/img/Kisch_TagderChemie_web.jpg)

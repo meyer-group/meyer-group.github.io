@@ -11,7 +11,7 @@ After their postdoctoral research stays at the University of California, Berkley
 We wish them all the very best and success! 
 
 
-![Ingrid and Xile](img/IngridAndXile.jpg)
+![Ingrid and Xile](/assets/img/IngridAndXile.jpg)
 
 
 Prof. Ingrid Castro Rodríguez, PhD

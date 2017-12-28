@@ -10,5 +10,5 @@ He recently was awarded an Alexander von Humboldt Fellowship for a sabbatical st
 
 Great to have you around John!
 
-![Prof. John F. Berry](img/ohnBerry_website_1.jpg)
-![Prof. John F. Berry](img/JohnBerry_website_2.jpg)
+![Prof. John F. Berry](/assets/img/ohnBerry_website_1.jpg)
+![Prof. John F. Berry](/assets/img/JohnBerry_website_2.jpg)

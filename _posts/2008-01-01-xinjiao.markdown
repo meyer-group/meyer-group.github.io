@@ -8,4 +8,4 @@ We would like to welcome our newest international group member, PhD candidate Xi
 Xinjiao recieved her undergraduate degree in China, and M.S. in Singapore. 
 She will be working on catalytic applications of nickel complexes.  
 
-![Xinjiao](img/XinjiaoConf.jpg)
+![Xinjiao](/assets/img/XinjiaoConf.jpg)

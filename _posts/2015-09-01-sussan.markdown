@@ -9,4 +9,4 @@ She received her master’s degree from Sharif University of Technology in Tehra
 In Erlangen, she will be working on developing cubane Manganese clusters for catalytic water  oxidation. 
 Enjoy your time in Germany Sussan!
 
-![Soosan](img/Soosan_klein.jpg)
+![Soosan](/assets/img/Soosan_klein.jpg)

@@ -7,4 +7,4 @@ title: "Fully Renovated Laboratories"
 Our first five laboratories have been fully renovated!
 New power, cooling water, central regeneration and inert gas lines haven been installed as well as new lab furniture and state of the art inert gas glove boxes. 
 
-![Meyer lab](img/lab-renovated.jpg)
+![Meyer lab](/assets/img/lab-renovated.jpg)
