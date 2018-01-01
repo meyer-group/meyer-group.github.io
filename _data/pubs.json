@@ -1,5 +1,5 @@
 {
-    "most-cited": [
+    "most_cited": [
         {
             "authors": "X. Hu, I. Castro-Rodriguez, K. Olsen and K. Meyer",
             "jour": "Organometallics 2004, 23, 755-764",
@@ -2630,7 +2630,7 @@
             "year": 2004
         }
     ],
-    "selected-reviews": [
+    "selected_reviews": [
         {
             "authors": "Henry S. La Pierre and Karsten Meyer",
             "jour": "Progress Inorganic Chemistry 2014, Vol. 58, 303-416",
