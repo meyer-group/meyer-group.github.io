@@ -11,7 +11,7 @@ Marat has started his independent work in Mai 2009 and Carsten will join us in O
 Marat obtained his PhD at Philipps-Universität Marburg with Prof. Jörg Sundermeyer (2006), afterwards he joined the group of Prof. Karl Wieghardt (MPI for Bioinorganic Chemistry) as a postdoctoral-fellow. 
 Now he has started his independent research career focused on the development of photoswitchable magnetic materials funded by the FCI.
 
-![Dr. Marat Khusniyarov](/assets/img/Marat_small_webpage.jpg)
+![Dr. Marat Khusniyarov](/assets/img/2017/Marat_small_webpage.jpg)
 
 
 Carsten  Streb will join our team in October 2009 as a Liebig-Fellow of the FCI. 
@@ -20,4 +20,4 @@ He then moved to the University of Glasgow where he obtained his PhD in 2008 (su
 Currently, he works at the University of Glasgow and James Watt Nanofabrication Centre, investigating complex functional nanostructures based on molecular metal oxide precursors. 
 His future research will be focussed around alkoxide-based architectures as functional materials.
 
-![Dr. Carsten Streb](/assets/img/carstenstreb_webpage.jpg)
+![Dr. Carsten Streb](/assets/img/2017/carstenstreb_webpage.jpg)

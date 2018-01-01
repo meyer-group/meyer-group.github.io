@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: team
 title: "About Karsten Meyer's Group"
+image: gruppenbild.jpg
 ---
 
-# Prof. Dr. Karsten Meyer
 
-chair leader
+# Prof. Dr. Karsten Meyer
 
 e-mail: [karsten.meyer@fau.de](mailto:karsten.meyer@fau.de) 
 phone: (+49) 9131 85-27360
@@ -14,7 +14,15 @@ office: A 3.4-3.5, Egerlandstr. 1, 91058 Erlangen
 [personal website](http://www.inorganic-chemistry.net/)
 [official website](https://www.chemistry.nat.fau.eu/person/karsten-meyer/)
 
+> The research in my group is expected to be TEAM WORK oriented.
+> Each member of the group will get to work on her/his separate and independent project.
+> Additionally, each researcher is supposed to contribute their individual abilities to help the other members of the group to successfully accomplish their goals or gain new skills.
+> This way we are hoping to work as a highly competitive group in our field of research and to build lasting friendships among the members of the research team.
+
+
 [Ausführliche Bio](/team/km/)
+
+
 
 # Academic Staff
 
@@ -82,12 +90,6 @@ office: A 00.45, Egerlandstr. 1, 91058 Erlangen
 
 
 # PhD Students
-
-Group Philosophy:
-
-The research in my group is expected to be TEAM WORK oriented. Each member of the group will get to work on her/his separate and independent project. Additionally, each researcher is supposed to contribute their individual abilities to help the other members of the group to successfully accomplish their goals or gain new skills. This way we are hoping to work as a highly competitive group in our field of research and to build lasting friendships among the members of the research team.
-
-
 
 ## Transition Metal Chemists
 
@@ -276,27 +278,5 @@ office: A 2.44, Egerlandstr. 1, 91058 Erlangen
 - [Soline Aubry](/team/soline-aubry)
 - [Elena Mas-Marza](/team/elenam-mas-marza)
 
-
-
-
-<div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
 
 

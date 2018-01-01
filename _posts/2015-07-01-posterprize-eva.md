@@ -2,6 +2,7 @@
 date: 2015-07-01
 layout: post
 title: "1st Poster-Prize for Eva"
+excerpt_separator: <!--more-->
 ---
 
 Congratulations to our PhD student Eva Zolnhofer! 
@@ -9,4 +10,6 @@ Her poster “An Intermediate Cobalt(IV) Nitrido Complex” was awarded with the
  
 Well done Eva! 
 
-![Eva](/assets/img/Eva_Poster_web_klein.jpg)
+![Eva](/assets/img/2017/Eva_Poster_web_klein.jpg)
+
+<!--more-->

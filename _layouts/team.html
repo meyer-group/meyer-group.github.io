@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="team">
+  {% if page.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+    </div>
+  {% endif %}
+  
+  {{ content }}
+
+</div>

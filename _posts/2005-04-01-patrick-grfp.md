@@ -10,4 +10,4 @@ NSF's Graduate Research Fellowship Program (GRFP) recognizes and supports outsta
 NSF Fellows are expected to become knowledge experts who can contribute significantly to research, teaching, and innovations in science and engineering. 
 For more information, [check out](http://www.nsfgradfellows.org/):
 
-![NSFGRFP Logo](/assets/img/NSFGRFPlogo.gif)
+![NSFGRFP Logo](/assets/img/2017/NSFGRFPlogo.gif)

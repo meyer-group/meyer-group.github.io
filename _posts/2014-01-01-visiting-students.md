@@ -10,8 +10,8 @@ Both are undergraduate students and have been awarded research fellowships (Fulb
 
 Congratulations to both of them! Great to have you in the team!
 
-![Matthew](/assets/img/Matthew_klein.jpg)
-![Donald](/assets/img/Donald_klein.jpg)
+![Matthew](/assets/img/2017/Matthew_klein.jpg)
+![Donald](/assets/img/2017/Donald_klein.jpg)
 
 Visiting from Great Britain are Simon Randall and Alexander (Sandy) Kilpatrick. 
 Both are exchange PhD students sent by our collaborators Prof. Louise Natrajan (University of Manchester) and Prof. F. Geoffrey N. Cloke (University of Sussex). 
@@ -19,5 +19,5 @@ They are working on joint research projects with the Meyer lab.
 
 Welcome to Simon and Sandy! Enjoy Erlangen and the uranium chemistry in the Meyer lab!
 
-![Simon](/assets/img/Simon_klein.jpg)
-![Alexander](/assets/img/Alexander_klein.jpg)
+![Simon](/assets/img/2017/Simon_klein.jpg)
+![Alexander](/assets/img/2017/Alexander_klein.jpg)

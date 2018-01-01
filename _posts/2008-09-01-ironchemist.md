@@ -10,4 +10,4 @@ Although we nominated two teams (team U238 and Fe57) for the triathlon competiti
 This sportsmanship is clearly demonstrated in the picture below in which Dr. Jörg Sutter and Prof. Sven Rau are shaking hands as they pass the finish line at the same time!
 Well done guys!
 
-![Iron Chemist 2008](/assets/img/IronChemist.jpg)
+![Iron Chemist 2008](/assets/img/2017/IronChemist.jpg)

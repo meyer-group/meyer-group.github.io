@@ -73,6 +73,8 @@ HEADER STYLING
 		line-height: 1;
 		letter-spacing: -3px;
 		padding-left: 0;
+		float: none;
+		text-align: center;
 	}
 
 	nav {
@@ -80,6 +82,7 @@ HEADER STYLING
 		clear: left;
 
 		ul {
+			text-align: center;
 			margin: 0;
 			li {
 				display: inline;

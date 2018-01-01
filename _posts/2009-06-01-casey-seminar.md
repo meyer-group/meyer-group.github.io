@@ -13,4 +13,4 @@ Chuck (photo left) is visiting our group from Saturday through Tuesday.
 
 Please welcome Chuck!  
 
-![Prof. Charles Casey (left)](/assets/img/CCasey.JPG)
+![Prof. Charles Casey (left)](/assets/img/2017/CCasey.JPG)

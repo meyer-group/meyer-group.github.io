@@ -12,4 +12,4 @@ She will continue her synthetic chemistry in our uranium laboratory.
 
 **Patrick**, who did his undergraduate work with Prof. Peter Dorhout at Colorado State University, will also work on our uranium chemistry. 
 
-![Oanh, Carmen and Patrick (from left to right)](/assets/img/NewMembers.jpg)
+![Oanh, Carmen and Patrick (from left to right)](/assets/img/2017/NewMembers.jpg)

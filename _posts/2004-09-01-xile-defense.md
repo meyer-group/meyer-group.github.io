@@ -11,7 +11,7 @@ Xile will be continuing to do postdoctoral research with Prof. Jonas Peters at t
 
 All the best & good luck for the future!
 
-![Xile defense](/assets/img/Xile_PhD_1_web_size.jpg)
-![Xile defense](/assets/img/Congratulations.jpg)
-![Xile defense](/assets/img/Xile_PhD_3_web_size.jpg)
-![Xile defense](/assets/img/Xile_PhD_5_web_size.jpg)
+![Xile defense](/assets/img/2017/Xile_PhD_1_web_size.jpg)
+![Xile defense](/assets/img/2017/Congratulations.jpg)
+![Xile defense](/assets/img/2017/Xile_PhD_3_web_size.jpg)
+![Xile defense](/assets/img/2017/Xile_PhD_5_web_size.jpg)

@@ -9,4 +9,4 @@ He will be giving a seminar on Monday the 12th at 4 pm entitled "Iridium Boryl C
 
 In the picture below you can see guest speaker Mitch Smith (left) with Daniel Nocera and Dick Schrock (right) 
 
-![Guest speaker Mitch Smith (left) with Daniel Nocera and Dick Schrock (right)](/assets/img/SmallDickDanMitch.jpg)
+![Guest speaker Mitch Smith (left) with Daniel Nocera and Dick Schrock (right)](/assets/img/2017/SmallDickDanMitch.jpg)

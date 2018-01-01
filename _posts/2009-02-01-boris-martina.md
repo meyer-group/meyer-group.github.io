@@ -11,4 +11,4 @@ He will work on a project continuing our efforts in uranium coordination chemist
 **Martina**, a Dipl.-Chem. from TU München (with Prof. Herrmann/Dr. Schneider) will work on the catalytic activation of CO_2 at reactive Ti and Fe complexes. 
 She will start her studies with us in May 2009.
 
-![Boris and Martina](/assets/img/Boris_Martina.jpg)
+![Boris and Martina](/assets/img/2017/Boris_Martina.jpg)
