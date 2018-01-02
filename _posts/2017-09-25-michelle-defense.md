@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 Today, Michelle defended her PhD thesis "Das Phasenverhalten Ionischer Flüssigkeiten und Flüssigkristalle sowie die Katalytische Anwendung von N-heterozyklischen Carben Komplexen".
-The heartiest congratulations to Dr. Michelle Sternberg!
+The heartiest congratulations to Dr. Michelle Sternberg! <!--more-->
 
 We wish you all the best for you future!
 
@@ -17,4 +17,3 @@ We wish you all the best for you future!
 
 
 
-<!--more-->

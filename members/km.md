@@ -6,7 +6,7 @@ permalink: /team/km
 
 # Karsten Meyer
 
-![Karsten Meyer](/assets/img/km_page.jpg)
+![Karsten Meyer](/assets/img/Karsten_Meyer.jpg)
 
 ## Introduction
 

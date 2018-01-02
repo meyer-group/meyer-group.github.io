@@ -7,12 +7,17 @@ image: gruppenbild.jpg
 
 # Prof. Dr. Karsten Meyer
 
-e-mail: [karsten.meyer@fau.de](mailto:karsten.meyer@fau.de) 
-phone: (+49) 9131 85-27360
-fax:  (+49) 9131 85-27367
-office: A 3.4-3.5, Egerlandstr. 1, 91058 Erlangen
-[personal website](http://www.inorganic-chemistry.net/)
-[official website](https://www.chemistry.nat.fau.eu/person/karsten-meyer/)
+<div class="profile">
+<img src="/assets/img/Karsten_Meyer.jpg" class="img-responsive">
+<p>
+e-mail: <a href="mailto:karsten.meyer@fau.de">karsten.meyer@fau.de</a><br>
+phone: (+49) 9131 85-27360<br>
+fax:  (+49) 9131 85-27367<br>
+office: A 3.4-3.5, Egerlandstr. 1, 91058 Erlangen <br>
+<a href="http://www.inorganic-chemistry.net/">personal website</a>
+<a href="https://www.chemistry.nat.fau.eu/person/karsten-meyer/">official website</a>
+</p>
+</div>
 
 > The research in my group is expected to be TEAM WORK oriented.
 > Each member of the group will get to work on her/his separate and independent project.
@@ -28,26 +33,37 @@ office: A 3.4-3.5, Egerlandstr. 1, 91058 Erlangen
 
 ## Dr. Frank W. Heinemann
 
-academic director
+<div class="profile">
+<img src="/assets/img/Frank_Heinemann.png" class="img-responsive">
+<p>
+academic director<br>
 
-e-mail: [frank.heinemann@fau.de](mailto:frank.heinemann@fau.de) 
-phone: (+49) 09131/85-27383 
-fax:  (+49) 9131 85-27367
-office: A 2.4, Egerlandstr. 1, 91058 Erlangen
-[official website](https://www.chemie.nat.fau.de/person/frank-heinemann/)
-
+e-mail: <a href="frank.heinemann@fau.de">frank.heinemann@fau.de</a><br> 
+phone: (+49) 09131/85-27383 <br>
+fax:  (+49) 9131 85-27367<br>
+office: A 2.4, Egerlandstr. 1, 91058 Erlangen <br>
+<a href="https://www.chemie.nat.fau.de/person/frank-heinemann/">official website</a>
+</p>
+</div>
 
 ## Dr. Jörg Sutter
 
-academic scientist
+<div class="profile">
+<img src="/assets/img/Joerg_Sutter.jpg" class="img-responsive">
+<p>
+academic scientistr<br>
 
-e-mail: [joerg.sutter@fau.de](mailto:joerg.sutter@fau.de) 
-phone:  (+49) 9131 85-27373
-fax:  (+49) 9131 85-27367
-office: A 2.1, Egerlandstr. 1, 91058 Erlangen
-[official website](https://www.chemie.nat.fau.de/person/joerg-sutter/)
+e-mail: <a href="joerg.sutter@fau.de">joerg.sutter@fau.de</a><br> 
+phone:  (+49) 9131 85-27373<br> 
+fax:  (+49) 9131 85-27367<br> 
+office: A 2.1, Egerlandstr. 1, 91058 Erlangen<br> 
+<a href="https://www.chemie.nat.fau.de/person/joerg-sutter/">official website</a>
+</p>
+</div>
 
 ## Dr. Andreas Scheurer
+
+![Dr. Andreas Scheurer](/assets/img/Andreas_Scheurer.jpg)
 
 academic scientist
 
@@ -58,6 +74,8 @@ office: A 2.5, Egerlandstr. 1, 91058 Erlangen
 [official website](https://www.chemie.nat.fau.de/person/andreas-scheurer/)
 
 ## Dr. Christina Hauser
+
+![Dr. Christina Hauser](/assets/img/Christina_Hauser.jpg)
 
 academic researcher
 

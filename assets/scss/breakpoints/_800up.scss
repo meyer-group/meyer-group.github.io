@@ -197,6 +197,61 @@ POST NAV STYLING
 	}
 }
 
+/***************
+TEAM STYLING
+***************/
+
+.team {
+	h1, h2, h3, h4, h5, h6, p, ul, ol, dl, .pageTitle {
+    width: 75%;
+		float: none;
+		margin: 0 auto 2rem;
+		clear: none;
+	}
+
+	h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+		margin: 1rem auto; 
+	}
+
+	.pageTitle {
+		margin: 2rem auto 1em;
+	}
+
+	.profile {
+	
+		margin: auto;
+		width: 75%;
+	
+
+		img {
+			float: left;
+			margin-right: 25px;
+			max-width: 300px;
+		}
+
+		p {
+			clear: none;
+		}
+	}
+
+	.featuredImage {
+		position: relative;
+		margin-top: 2rem;
+
+		&:before {
+			background: white;
+			content: "";
+			display: block;
+			width: 100%;
+			height: 4em;
+			position: absolute;
+			top: -2em;
+			left: 0;
+			transform: skewY(-2deg);
+			transform-origin: bottom left;
+		}
+	}
+}
 
 /***************
 FOOTER STYLES

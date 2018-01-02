@@ -4,7 +4,7 @@ title: "Meyer Group"
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+  <h1 class="pageTitle">News</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -14,6 +14,7 @@ title: "Meyer Group"
         {% if post.image %}
         <img src="{{ post.image }}">
         {% endif %}
+        <p style="text-align: right;"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">continue reading...</a></p>
       </li>
     {% endfor %}
   </ul>

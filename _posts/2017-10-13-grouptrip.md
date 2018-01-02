@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 Yesterday, we had our annualy group trip to Martin Bauerschmitt's winery.
 Instead of harvesting his wine like last year, we visit two more winerys to have a little tasting. 
 It was a great day! 
-Thanks to Martin and Hörx for all the organizations!
+Thanks to Martin and Hörx for all the organizations! <!--more-->
 
 Some impressions below:
 
@@ -24,4 +24,3 @@ Some impressions below:
   <img src="/assets/img/2017_grouptrip3.jpg" width="300" /> 
 </p>
 
-<!--more-->
