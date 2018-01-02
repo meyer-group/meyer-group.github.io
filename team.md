@@ -93,11 +93,11 @@ office: A 00.45, Egerlandstr. 1, 91058 Erlangen
 
 ## Transition Metal Chemists
 
-- [Jana Korzekwa](/team/dominik-halter)
-- [Matthias Miehlich](/team/sascha-loeffler)
-- [Martin Keilwerth](/team/christopher-hoerger)
-- [Vera Seidl](/team/julian-huemmer)
-- [Soosan Hosseinmardi](/team/judith-riedhammer)
+- [Jana Korzekwa](/team/jana-korzekwa)
+- [Matthias Miehlich](/team/matthias-miehlich)
+- [Martin Keilwerth](/team/martin-keilwerth)
+- [Vera Seidl](/team/vera-seidl)
+- [Soosan Hosseinmardi](/team/soosan-hosseinmardi)
 
 ## Uranium Chemists
 
