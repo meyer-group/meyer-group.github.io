@@ -15,13 +15,11 @@ office: A 3.2, Egerlandstr. 1, 91058 Erlangen
 
 ## Education
 
-Since February 2015
+- Since February 2015<br>
 PhD Student in the Meyer Group
-
-February 2016
-Master of Science in Chemistry, FAU Erlangen
-
-Master Thesis: New Ligands for the Coordination Chemistry of Uranium in Tetragonal Ligand Fields (AK Meyer)
+- February 2016 <br>
+Master of Science in Chemistry, FAU Erlangen <br>
+_Master Thesis_: New Ligands for the Coordination Chemistry of Uranium in Tetragonal Ligand Fields (AK Meyer)
 
 ## Current Research
 

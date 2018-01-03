@@ -24,7 +24,7 @@ office: A 2.4, Egerlandstr. 1, 91058 Erlangen <br>
 <div class="profile">
 <img src="/assets/img/Joerg_Sutter.jpg" class="img-responsive">
 <p>
-academic scientistr<br>
+academic scientist<br>
 
 e-mail: <a href="joerg.sutter@fau.de">joerg.sutter@fau.de</a><br> 
 phone:  (+49) 9131 85-27373<br> 
@@ -36,25 +36,32 @@ office: A 2.1, Egerlandstr. 1, 91058 Erlangen<br>
 
 ## Dr. Andreas Scheurer
 
-![Dr. Andreas Scheurer](/assets/img/Andreas_Scheurer.jpg)
+<div class="profile">
+<img src="/assets/img/Andreas_Scheurer.jpg" class="img-responsive">
+<p>
+academic scientist<br>
 
-academic scientist
+e-mail: <a href="andreas.scheurer.@fau.de">andreas.scheurer.@fau.de</a><br> 
+phone:  (+49) 9131 85-20748, -20747<br> 
+fax:  (+49) 9131 85-27367<br> 
+office: A 2.5, Egerlandstr. 1, 91058 Erlangen<br> 
+<a href="https://www.chemie.nat.fau.de/person/andreas-scheurer/">official website</a>
+</p>
+</div>
 
-e-mail: [andreas.scheurer.@fau.de](mailto:andreas.scheurer@fau.de) 
-phone:  (+49) 9131 85-20748, -20747
-fax:  (+49) 9131 85-27367
-office: A 2.5, Egerlandstr. 1, 91058 Erlangen
-[official website](https://www.chemie.nat.fau.de/person/andreas-scheurer/)
 
 ## Dr. Christina Hauser
 
-![Dr. Christina Hauser](/assets/img/Christina_Hauser.jpg)
+<div class="profile">
+<img src="/assets/img/Christina_Hauser.jpg" class="img-responsive">
+<p>
+academic researcher<br>
 
-academic researcher
-
-e-mail: [christina.hauser.@fau.de](mailto:christina.hauser@fau.de) 
-phone:  (+49) 9131 85-27362
-fax:  (+49) 9131 85-27367
-office: A 3.19, Egerlandstr. 1, 91058 Erlangen
-[official website](https://www.chemie.nat.fau.de/person/christina-hauser/)
+e-mail: <a href="christina.hauser.@fau.de">christina.hauser.@fau.de</a><br> 
+phone:  (+49) 9131 85-27362<br> 
+fax:  (+49) 9131 85-27367<br> 
+office: A 3.19, Egerlandstr. 1, 91058 Erlangen<br> 
+<a href="https://www.chemie.nat.fau.de/person/christina-hauser/">official website</a>
+</p>
+</div>
 

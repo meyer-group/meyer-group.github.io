@@ -25,3 +25,6 @@ permalink: /students/
 
 
 # Master Students
+
+- Dominik Fehn
+- Lisa Grafvogel

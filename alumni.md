@@ -8,40 +8,40 @@ permalink: /alumni/
 
 ## PhD Students
 
-- [Ingrid Castro Rodriguez](/team/ingrid-castro-rodriguez)
-- [Xile Hu](/team/xile-hu)
-- [Carola Vogel](/team/carola-vogel)
-- [Xinjiao Wang](/team/xinjiao-wang)
-- [Boris Kosog](/team/boris-kosog)
-- [Martina Kaess](/team/martina-kaess)
-- [Corina Schmidt](/team/corina-schmidt)
-- [Sebastian Franke](/team/sebastian-franke)
-- [Johannes Hohenberger](/team/johannes-hohenberger)
-- [Henning Kropp](/team/henning-kropp)
-- [Mario Adelhardt](/team/mario-adelhardt)
-- [Michelle Sternberg](/team/michelle-sternberg) 
-- [Eva Zolnhofer](/team/eva-zolnhofer)
-- [Michael Rosenzweig](/team/michael-rosenzweig)
-- [Dominik Halter](/team/dominik-halter)
+- [Ingrid Castro Rodriguez](https://ehs.berkeley.edu/ingrid-castro-rodriguez)
+- [Xile Hu](https://lsci.epfl.ch/hu)
+- Carola Vogel
+- Xinjiao Wang
+- Boris Kosog
+- Martina Kaess
+- Corina Schmidt
+- Sebastian Franke
+- Johannes Hohenberger
+- Henning Kropp
+- Mario Adelhardt
+- Michelle Sternberg
+- Eva Zolnhofer
+- Michael Rosenzweig
+- Dominik Halter
 
 ## Master Students
 
-- [Pascal Thasitis](/team/pascal-thasitis)
-- [Lorena Bosse](/team/lorena-bosse)
+- Pascal Thasitis
+- Lorena Bosse
 
 ## Postdocs
 
-- [Hidetaka Nakai](/team/hidetaka-nakai)
-- [Yongjun Tang](/team/yongjun-tang)
-- [Christian Anthon](/team/christian-anthon)
-- [Susanne Mossin](/team/susanne-mossin)
-- [Suzanne Doucette](/team/suzanne-doucette)
-- [Stefan Zünd](/team/stefan-zuend)
-- [Henry Storms La Pierre](/team/henry-storms-la-pierre)
-- [Angel Heriberto Romero Cordero](/team/angel-heriberto-romero-cordero)
+- [Hidetaka Nakai](http://www.kindai.ac.jp/sci/english/education/faculty_and_research/05_nakai_hidetaka.html)
+- Yongjun Tang
+- Christian Anthon
+- [Susanne Mossin](http://www.dtu.dk/english/service/phonebook/person?id=36867&tab=2&qt=dtupublicationquery)
+- Suzanne Doucette
+- Stefan Zünd
+- [Henry Storms La Pierre](https://www.chemistry.gatech.edu/people/la%20pierre/henry)
+- Angel Heriberto Romero Cordero
 
 ## Visiting Students
 
-- [Kristian Gotthardt Olsen](/team/kristian-gotthardt-olsen)
-- [Soline Aubry](/team/soline-aubry)
-- [Elena Mas-Marza](/team/elenam-mas-marza)
+- Kristian Gotthardt Olsen
+- Soline Aubry
+- Elena Mas-Marza

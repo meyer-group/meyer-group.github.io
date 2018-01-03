@@ -15,10 +15,9 @@ office: A 3.2, Egerlandstr. 1, 91058 Erlangen
 
 ## Education
 
-September 2013:
-Master of Science in Chemistry, FAU Erlangen
-
-Thesis: Uranium-Monoarene Complexes with Chelating Ligands as Model Systems for Electrocatalysis (AK Meyer)
+- September 2013:
+Master of Science in Chemistry, FAU Erlangen<br>
+_Master Thesis:_ Uranium-Monoarene Complexes with Chelating Ligands as Model Systems for Electrocatalysis (AK Meyer)
 
 ## Current Research
 

@@ -1,17 +1,21 @@
 ---
 title: "Soosan Hosseinmardi"
 permalink: /team/soosan-hosseinmardi
-layout: default
+layout: team
 ---
 
 # Soosan Hosseinmardi
 
-![Soosan Hosseinmardi](/assets/img/2017/Soosan_klein.jpg)
- 
-e-mail: [soosan.hosseinmardi@fau.de](mailto:soosan.hosseinmardi@fau.de) <br>
-phone: (+49) 09131/85-27364 <br>
-fax:  (+49) 9131 85-27367 <br>
+
+<div class="profile">
+<img src="/assets/img/2017/Soosan_klein.jpg" class="img-responsive">
+<p>
+e-mail: <a href="soosan.hosseinmardi@fau.de">soosan.hosseinmardi@fau.de</a><br> 
+phone: (+49) 09131/85-27364<br>
+fax:  (+49) 9131 85-27367<br>
 office: A 3.2, Egerlandstr. 1, 91058 Erlangen <br>
+</p>
+</div>
 
 ## Education
 
@@ -19,7 +23,7 @@ office: A 3.2, Egerlandstr. 1, 91058 Erlangen <br>
 PhD student in the Meyer Group
 - September 2013:
 Master of Science in Chemistry, Sharif University of Technology
-- Thesis: Synthesis and Characterization of New Bis(N-Heterolytic) Carbene Platinium(II)Complexes: Study of Stability and Reactivity in C-H Activation (AK Sirous Jamali)
+- _Master Thesis:_ Synthesis and Characterization of New Bis(N-Heterolytic) Carbene Platinium(II)Complexes: Study of Stability and Reactivity in C-H Activation (AK Sirous Jamali)
 
 ## Current Research
 
