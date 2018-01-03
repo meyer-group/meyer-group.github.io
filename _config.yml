@@ -11,7 +11,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
-exclude: ["_legacy"]
+exclude: ["_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import"]
 
 navigation:
  - title: News

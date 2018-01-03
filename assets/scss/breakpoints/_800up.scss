@@ -3,7 +3,7 @@ GLOBAL STYLES
 ***************/
 
 body {
-  font-size: 125%;
+  font-size: 118%;
 }
 
 .content {
@@ -206,7 +206,14 @@ TEAM STYLING
     width: 75%;
 		float: none;
 		margin: 0 auto 2rem;
+	}
+
+	p, ul ,ol, dl {
 		clear: none;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		clear: both;
 	}
 
 	h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
