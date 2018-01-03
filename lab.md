@@ -24,9 +24,9 @@ The system is equipped with a cross-diffusion prevention between the solvents an
 The solvent lines are plumbed directly into the glove-box, which allows to collect solvents at a "filling station" inside the boxes as well as at the stand.
 
 <p>
-  <img src="/assets/img/LargeSolventSystemFull.jpg" width="230" />
-  <img src="/assets/img/LargeSolventSystemRight.jpg" width="230" /> 
-  <img src="/assets/img/LargeSolventSystemLeft.jpg" width="230" /> 
+  <img src="/assets/img/LargeSolventSystemFull.jpg" height="180" />
+  <img src="/assets/img/LargeSolventSystemRight.jpg" height="180" /> 
+  <img src="/assets/img/LargeSolventSystemLeft.jpg" height="180" /> 
 </p>
 
 
@@ -47,18 +47,14 @@ Both boxes (MBRAUN Labmaster) are equipped with:
 - Static Eliminators
 
 <p>
-  <img src="/assets/img/A1_04_MB200B_red_Glovebox.jpg" width="200" />
-  <img src="/assets/img/A1_04_MB20G_red_Glovebox.jpg" width="200" /> 
-  <img src="/assets/img/A1_36_LABmaster_red_Glovebox.jpg" width="200" />
-</p>
-<p>
-<img src="/assets/img/A3_01_LABmaster_red_Glovebox.jpg" width="200" /> 
-  <img src="/assets/img/A3_03_LABstar_red_Glovebox.jpg" width="200" />
-  <img src="/assets/img/A3_01_LABmaster_red_Glovebox.jpg" width="200" /> 
-</p>
-<p>
-  <img src="/assets/img/A3_43_LABstar_red_Glovebox.jpg" width="300" />
-  <img src="/assets/img/U1_023_MB200B_red_Glovebox.jpg" width="300" /> 
+  <img src="/assets/img/A1_04_MB200B_red_Glovebox.jpg" height="140" />
+  <img src="/assets/img/A1_04_MB20G_red_Glovebox.jpg" height="140" /> 
+  <img src="/assets/img/A1_36_LABmaster_red_Glovebox.jpg" height="140" />
+  <img src="/assets/img/A3_01_LABmaster_red_Glovebox.jpg" height="140" /> 
+  <img src="/assets/img/A3_03_LABstar_red_Glovebox.jpg" height="142" />
+  <img src="/assets/img/A3_01_LABmaster_red_Glovebox.jpg" height="142" /> 
+  <img src="/assets/img/A3_43_LABstar_red_Glovebox.jpg" height="142" />
+  <img src="/assets/img/U1_023_MB200B_red_Glovebox.jpg" height="142" /> 
 </p>
 
 # EPR-spectroscopy
@@ -69,16 +65,37 @@ The Electron-Paramagnetic-Resonance spectrometer used is a JEOL continuous wave 
 For high-accuracy measurements the system carries a Hall field controller as well as an X-band digital frequency counter. 
 For low-temperature experiments the spectrometer is equipped with a helium cryostat system to record spectra down to as low as 4 K.
 
+<p>
+  <img src="/assets/img/EPR200.jpg" height="160" />
+  <img src="/assets/img/EPR200Close.jpg" height="160" /> 
+  <img src="/assets/img/EPR200Screen.jpg" height="160" /> 
+</p>
+
 # Magnetochemistry
 
 In order to fully understand the electronic structure (and ultimately the reactivity due to the particular electron distribution within the molecule) we apply magnetic susceptibility measurements using a SQUID magnetometer. 
 For iron containing complexes, 57Fe-Mössbauer spectroscopy and electron paramagnetic resonance (EPR) spectroscopy are used as complementary tools for probing molecular magnetism and for elucidating the electronic structure of transition metal complexes.
+
+<p>
+  <img src="/assets/img/Squid.jpg" height="240" />
+  <img src="/assets/img/SquidLoader.jpg" height="240" /> 
+  <img src="/assets/img/SquidProbe.jpg" height="240" /> 
+</p>
 
 # Mössbauer Spectroscopy
 
 Two Mössbauer instruments for 57Fe Mössbauer spectroscopy are available which each consist of a WissEl Mössbauer spectrometer (MRG-500), a 57Co/Rh radiation source and an MBBC-HE0106 MÖSSBAUER He/N2 cryostat for experiments between 5 and 300 K. 
 Isomer shifts are determined relative to a-iron at 298 K. WinNormos for Igor Pro software is used for the quantitative evaluation of the spectral parameters (least-squares fitting to Lorentzian peaks). 
 The minimum experimental line widths are 0.20 mms-1.
+
+<p>
+  <img src="/assets/img/MoessRoom.jpg" height="190" />
+  <img src="/assets/img/MoessZoom.jpg" height="190" /> 
+  <img src="/assets/img/MoessInst.jpg" height="190" />
+  <img src="/assets/img/MoessRec.jpg" height="170" /> 
+  <img src="/assets/img/MoessComp.jpg" height="170" />
+  <img src="/assets/img/MoessBottom.jpg" height="170" /> 
+</p>
 
 
 # Electrochemistry
@@ -90,6 +107,10 @@ Both setups are able to conduct most standard electrochemical techniques, includ
 PGSTAT204 is equipped with a FRA32M module for electrochemical impedance spectroscopy (EIS) measurement. 
 A wide range of Metrohm Autolab accessories are available, such as rotating disc electrode (RDE) and motor controller (up to 10,000 rpm), electrochemical cells of different sizes (3~50 mL), and various electrodes, to meet different purposes in either aqueous or organic medium.
 
+<p>
+  <img src="/assets/img/autolabpgstat204_klein.jpg" height="240" />
+  <img src="/assets/img/EChemGBoxSmall.jpg" height="240" /> 
+</p>
 
 # UV-Visible Spectrophotometer
 
