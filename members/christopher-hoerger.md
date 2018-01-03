@@ -12,7 +12,9 @@ layout: team
 e-mail: <a href="christopher.hoerger@fau.de">christopher.hoerger@fau.de</a><br> 
 phone: (+49) 09131/85-27364<br>
 fax:  (+49) 9131/85-27367<br>
-office: A 3.2, Egerlandstr. 1, 91058 Erlangen <br>
+office:<br>
+A 3.2, Egerlandstr. 1<br>
+91058 Erlangen
 </p>
 </div>
 

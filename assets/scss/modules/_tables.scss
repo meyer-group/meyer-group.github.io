@@ -3,9 +3,9 @@ TABLE STYLES
 ***************/
 
 table {
-	width: 100%;
+	width: 75%;
 	border: 1px solid lighten($grey, 15%);
-	margin-bottom: 1.5em;
+	margin: 0 auto 1.5em auto;
 
 	caption {
 		margin: 0 0 7px;

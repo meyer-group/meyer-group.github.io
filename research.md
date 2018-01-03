@@ -3,7 +3,9 @@ layout: page
 title: "Research Interests"
 ---
 
-![Research Interests](/assets/img/Research_Interests.png)
+<div id="menu" class="piclist">
+<a href="#actinide-coordination-chemistry"><img style="max-height: 200px" src="/assets/img/research-act.png" alt="actinide coordination chemistry"></a><a href="#organometallic-chemistry"><img style="max-height: 200px"  src="/assets/img/research-orga.png" alt="organometallic chemistry"></a><a href="#heterogeneous-chemistry"><img style="max-height: 200px"  src="/assets/img/research-hetero.png" alt="heterogeneous chemistry"></a><a href="#supramolecular-chemistry"><img style="max-height: 200px"  src="/assets/img/research-supra.png" alt="supramolecular chemistry"></a><a href="#bioinorganic-chemistry"><img style="max-height: 200px"  src="/assets/img/research-bioinorg.png" alt="bioinorganic chemistry"></a>
+</div>
 
 
 
@@ -17,9 +19,9 @@ title: "Research Interests"
 >
 >In general, the research in our laboratories allows for learning a variety of inorganic and organic synthetic techniques as well as the theory and application of a large number of spectroscopic and computational methods.
 
-# Actinide Coordination Chemistry
+<h2 id="actinide-coordination-chemistry">Actinide Coordination Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
 
-## Catalyst Development Based on Low-Valent Uranium Complexes
+### Catalyst Development Based on Low-Valent Uranium Complexes
 
 In our efforts to activate small molecules of industrial and biological importance, we have turned our attention to coordinatively unsaturated, reactive uranium coordination complexes. 
 For example, the chelating triazacyclononane (tacn), single N, and arene-anchored tris­(aryloxide) ligands, (ArO)3tacn3–, (ArO)3N3–, and (ArO)3mes3– have provided access to reactive coordination compounds of uranium in oxidation states II, III, IV, V, and VI with tailorable steric and electronic profiles. 
@@ -27,7 +29,7 @@ These complexes display a pro­nounced selectivity and reactivity in reactions w
 
 ![Meyer Group](/assets/img/actinide2a.jpg)
 
-Recently, the stoichio­metric and catalytic “disproportionation” of CO2 to CO and CO32– via reductive cleavage of CO2 was accomplished. 
+Recently, the stoichio­metric and catalytic "disproportionation" of CO2 to CO and CO32– via reductive cleavage of CO2 was accomplished. 
 In analogy, we were able to isolate an entire series of chalco­genide mixed-carbonate complexes by reacting bridged chalco­genide complexes U‒E‒U (E = S, Se, Te) with CO2, CS2, and COS. 
 With respect to fundamental understanding of actinide chemistry, the molecular and electronic structure of a new oxidation state in U coordination chemistry, namely U(II), with a 5f 4 quintet ground state was stabilized by a mesitylene anchored tris­(aryloxide) ligand. 
 In K(crypt)­[((Ad,MeArO)3­mes)­U], the U(II) center is supported by d backbonding, a general motive of the (ArO)3mes3– ligand.
@@ -46,39 +48,40 @@ For details on the research interest please see:
 
 
 D. P. Halter, F.W. Heinemann, J. Bachmann, and K. Meyer
-“Uranium-Mediated Electrocatalytic H­2 Production from Water”
+"Uranium-Mediated Electrocatalytic H­2 Production from Water"
 Nature 2016, 530, 317–321.
 
 A.-C. Schmidt, A.V. Nizovtsev, A. Scheurer, F.W. Heinemann and K. Meyer
-“Uranium-Mediated Reductive Conversion of CO2 to CO and Carbonate in a Single-Vessel Closed Synthetic Cycle” Chem. Comm. 2012, 48, 8634–8636.
+"Uranium-Mediated Reductive Conversion of CO2 to CO and Carbonate in a Single-Vessel Closed Synthetic Cycle" Chem. Comm. 2012, 48, 8634–8636.
 
 S.M. Franke, F.W. Heinemann and K. Meyer
-“Reactivity of Uranium(IV) Bridged Chalcogenido Complexes UIV-E-UIV (E = S, Se) with Elemental Sulfur and Selenium: Synthesis of Polychalcogenido-Bridged Uranium Complexes”
+"Reactivity of Uranium(IV) Bridged Chalcogenido Complexes UIV-E-UIV (E = S, Se) with Elemental Sulfur and Selenium: Synthesis of Polychalcogenido-Bridged Uranium Complexes"
 Chem. Sci. 2014, 5, 942–950.
 
 O.P. Lam, S.M. Franke, F.W. Heinemann and K. Meyer
-“Reactivity of U-E-U (E = S, Se) Towards CO2, CS2, and COS: New Mixed-carbonate Complexes of the Types U-CO2E-U (E = S, Se), U-CS2E-U (E = O, Se) and U-COSSe-U”
+"Reactivity of U-E-U (E = S, Se) Towards CO2, CS2, and COS: New Mixed-carbonate Complexes of the Types U-CO2E-U (E = S, Se), U-CS2E-U (E = O, Se) and U-COSSe-U"
 J. Am. Chem. Soc. 2012, 134, 16877–16881.
 
 H.S. La Pierre, H. Kameo, D.P. Halter, F.W. Heinemann and K. Meyer
-“Coordination and Redox Isomerization in the Reduction of a Uranium(III) Monoarene Complex”
+"Coordination and Redox Isomerization in the Reduction of a Uranium(III) Monoarene Complex"
 Angew. Chem. Int. Ed. 2014, 53, 7154–7157.
 
 H.S. La Pierre, A. Scheurer, F.W. Heinemann, W. Hieringer and K. Meyer
-“Synthesis and Characterization of a Uranium(II) Monoarene Complex Supported by d Backbonding”
+"Synthesis and Characterization of a Uranium(II) Monoarene Complex Supported by d Backbonding"
 Angew. Chem. Int. Ed. 2014, 53, 7158–7162.
 
 D.P. Halter, H.S. La Pierre, F.W. Heinemann and K. Meyer
-“Uranium (IV) Halide (F–, Cl–, Br–, and I–) Monoarene Complexes”
+"Uranium (IV) Halide (F–, Cl–, Br–, and I–) Monoarene Complexes"
 Inorg. Chem. 2014, 53, 8418–8424.
 
 S.M. Franke, M.W. Rosenzweig, F.W. Heinemann and K. Meyer
-“Reactivity of Uranium(III) with H2E (E = S, Se, Te): Synthesis of a Series of Mononuclear and Dinuclear Uranium(IV) Hydrochalcogenido Complexes”
+"Reactivity of Uranium(III) with H2E (E = S, Se, Te): Synthesis of a Series of Mononuclear and Dinuclear Uranium(IV) Hydrochalcogenido Complexes"
 Chem. Sci. 2015, 6, 275–282.
 
-# Organometallic Chemistry
 
-## Tripodal N-Heterocyclic Carbene Ligands for High-Valent Reactive Metal Complexes
+<h2 id="organometallic-chemistry">Organometallic Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
+
+### Tripodal N-Heterocyclic Carbene Ligands for High-Valent Reactive Metal Complexes
 
 Transition metal coordination compounds in high oxidation states are active intermediates in many biocatalytic cycles. 
 In this context, the study of high valent transition metal complexes featuring the terminal, multiple bonded oxido (O2–) and nitrido (N3–) ligands is of significant and current interest due to their proposed intermediacy in biological systems and industrial processes. 
@@ -120,16 +123,19 @@ J. Am. Chem. Soc. 2012, 134, 15538–15544. get it here
 An Intermediate Cobalt(IV) Nitrido Complex and its N-Migratory Insertion Product
 J. Am. Chem. Soc. 2014, 136, 15072–15078. get it here
 
- 
-# Heterogenous Catalysis
 
-## photochemistry: photocatalytic water splitting at doped semiconductor materials
+<h2 id="heterogeneous-chemistry">Heterogeneous Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
+
+### Photochemistry: photocatalytic water splitting at doped semiconductor materials
 
 ![Meyer Group](/assets/img/Wasserspaltung.png)
 
-Zitat: “Yes, my friends, I believe that water will one day be employed as fuel, that hydrogen and oxygen which constitute it, used singly or together, will furnish an inexhaustible source of heat and light, of an intensity of which coal is not capable…. water will be the coal of the future.”
-
-Jules Verne (The Mysterious Island, 1874)
+<blockquote>
+	<p>
+	Yes, my friends, I believe that water will one day be employed as fuel, that hydrogen and oxygen which constitute it, used singly or together, will furnish an inexhaustible source of heat and light, of an intensity of which coal is not capable... water will be the coal of the future.
+	</p>
+	<footer>Jules Verne (The Mysterious Island, 1874)</footer>
+</blockquote>
 
 After the 20th century has been known as the "hydrocarbon century", it is likely that the next one hundred years will be called the "hydrogen century." 
 Hydrogen as non-polluting, CO2-free energy carrier has been considered an ideal way to confront the depletion and environmental problems of fossil fuels. 
@@ -141,11 +147,13 @@ The overall efficiency of semiconductor catalyzed reactions depends in a complic
 Tantalates have recently attracted attention as a new group of materials for water splitting.
 However, due to bandgap energies of ~ 4.0 eV for most tantalates, light of l ≤ 300 nm is required for excitation and it remains a challenge to extend the response to solar light and increase the photocatalytic activity for water splitting at that.
 
-![Meyer Group](/assets/img/Wasserspaltung_nbsp02.png)
+![Meyer Group](/assets/img/Wasserspaltung_nbsp_02.png)
 
-# Supramolecular Chemistry
 
-## Supramolecularly Stabilized Transition Metal Complexes
+
+<h2 id="supramolecular-chemistry">Supramolecular Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
+
+### Supramolecularly Stabilized Transition Metal Complexes
 
 One research project will be the synthesis and stabilization of high-valent early first-row transition metal complexes by encapsulation in zeolite cages. 
 While initial studies will focus on terminal oxo and nitrido complexes, the investigation of a variety of chalcogenido and pnictogenido compounds of V, Cr, Mn and Fe is envisioned. 
@@ -157,9 +165,10 @@ Major goals of this project include in situ spectroscopic characterization of re
 Xile Hu & Karsten Meyer
 Identification of Iron Cyclam Complexes Encapsulated Inside Zeolite Y. Inorg. Chim. Acta. 2002, 337, 53-58. Special Edition. get it here
 
-# Bioinorganic Chemistry
 
-## Model Compounds for the Active Site of Hydroxylamine Oxidoreductase
+<h2 id="bioinorganic-chemistry">Bioinorganic Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
+
+### Model Compounds for the Active Site of Hydroxylamine Oxidoreductase
 
 The design of water-soluble, amine and imine macrocyclic ligands is a bioinorganic approach to synthesize simple inorganic analogues to the active site P-460 of Hydroxylamine Oxidoreductase (HAO). 
 This enzyme HAO catalyzes the four-electron oxidative conversion of hydroxylamine to nitrite in the biological nitrogen cycle. 

@@ -22,6 +22,7 @@
 @import "breakpoints/mobileup";
 
 // Import media queries add more as you desire
+@media only screen and (min-width: 413px) { @import "breakpoints/413up";} 
 @media only screen and (min-width: 800px) { @import "breakpoints/800up";} 
 @media only screen and (min-width: 1200px) { @import "breakpoints/1200up";} 
 

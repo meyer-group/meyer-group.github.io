@@ -5,23 +5,20 @@ permalink: /teaching/
 ---
 
 
-# Allgemeine und Anorganische Chemie
+## Allgemeine und Anorganische Chemie
 
-## Wintersemester 2016 - 2017: Vorlesungsmaterialien, Skripte & zusaetzliche Informationen 
+### Wintersemester 2016 - 2017: Vorlesungsmaterialien, Skripte & zusaetzliche Informationen 
 
-### Skripte (farbig)
+#### Skripte 
 
-- ac1 vorlesung ws 16/17 kapitel 1-13
-- ac1 vorlesung ws 16/17 kapitel 14-15
-- ac1 vorlesung ws 16/17 kapitel 16-18
-- ac1 vorlesung ws 16/17 konzepte final
+| farbig | s/w |
+|-----------------|-------------|
+| ac1 vorlesung ws 16/17 kapitel 1-13 | ac1 vorlesung ws 16/17 kapitel 1-13 |
+| ac1 vorlesung ws 16/17 kapitel 14-15 | ac1 vorlesung ws 16/17 kapitel 14-15 |
+| ac1 vorlesung ws 16/17 kapitel 16-18 | ac1 vorlesung ws 16/17 kapitel 16-18 |
+| ac1 vorlesung ws 16/17 konzepte final | ac1 vorlesung ws 16/17 konzepte final |
+|--|--|
 
-### Skripte (schwarz-weiß)
-
-- ac1 vorlesung ws 16/17 kapitel 1-13
-- ac1 vorlesung ws 16/17 kapitel 14-15
-- ac1 vorlesung ws 16/17 kapitel 16-18
-- ac1 vorlesung ws 16/17 konzepte final
 
 ### Recomended Books
 
