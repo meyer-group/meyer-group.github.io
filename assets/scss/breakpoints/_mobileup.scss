@@ -297,6 +297,107 @@ POST STYLING
 }
 
 /***************
+PAGE STYLING
+***************/
+
+.page {
+	font-size: 80%;
+
+	.postTitle {
+		text-align: center;
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+	}
+
+	blockquote {
+		font-style: italic;
+		clear: both;
+		margin: 2.5em 0;
+		padding: 0;
+		line-height: 1.8;
+		position: relative;
+		text-align: justify;
+
+		&:before {
+			content: "";
+			position: absolute;
+			top: -1.25em;
+			background: $background-color;
+			display: block;
+			height: 2px;
+			width: 150px;
+			left: calc(50% - 75px);
+		}
+
+		&:after {
+			content: "";
+			position: absolute;
+			bottom: -1.25em;
+			background: $background-color;
+			display: block;
+			height: 2px;
+			width: 150px;
+			left: calc(50% - 75px);
+		}
+	}
+
+	.meta {
+		text-align: center;
+		color: lighten(black, 50%);
+		font-family: $sans-serif;
+		font-weight: 300;
+	}
+
+	figure {
+		margin: 3rem 0;
+
+		figcaption {
+			text-align: center;
+			font-size: .9em;
+			font-style: italic;
+			color: lighten($black, 30%);
+		}
+
+		img {
+			margin: 0 auto;
+			display: block;
+		}
+	}
+
+	img {
+		margin-bottom: 2rem;
+	}
+
+	.profile {
+		clear: both;
+		margin-bottom: 20px;
+		overflow: auto;
+		p {
+			clear: both;
+		}
+	}
+
+	.highlight {
+		clear: both;
+		margin-bottom: 2rem;
+	}
+
+	.dropcap {
+		color: $primary-color;
+		margin-right: .45rem;
+	}
+
+	.featuredImage {
+		position: relative;
+		margin-top: 2rem;
+
+		img {
+			margin-bottom: 0;
+		}
+	}
+}
+
+/***************
 TEAM STYLING
 ***************/
 
@@ -370,6 +471,8 @@ TEAM STYLING
 
 	.profile {
 		clear: both;
+		margin-bottom: 20px;
+		overflow: auto;
 		p {
 			clear: both;
 		}

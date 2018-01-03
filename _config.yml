@@ -20,6 +20,8 @@ navigation:
    url: /team
  - title: Research
    url: /research
+ - title: Lab
+   url: /lab
  - title: Publications
    url: /publications
  - title: Teaching
