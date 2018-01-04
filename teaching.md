@@ -34,21 +34,21 @@ permalink: /teaching/
 
 | Themengebiet | farbig | s/w |
 |-------------|--------|-----|
-|**Festkörperchemie** | [vorlesung 1](https://faubox.rrze.uni-erlangen.de/dl/fiA21guK1cPaALFkuBCXwNme/ChemieDerMetalle_Vorl_1-0_farbig.pdf?inline) | [vorlesung 1] |
-| | [vorlesung 2 & 3](https://faubox.rrze.uni-erlangen.de/dl/fiDCFSGY4Mz3dsPXSmVhqKrY/ChemieDerMetalle_Vorl_2-3_farbig.pdf?inline) | [vorlesung 2 & 3] |
-| | [vorlesung 4](https://faubox.rrze.uni-erlangen.de/dl/fiD5rCYwA6AFdygPtDA26g3W/ChemieDerMetalle_Vorl_4-0_farbig.pdf?inline) | [vorlesung 4] |
-| | [vorlesung 5 & 6](https://faubox.rrze.uni-erlangen.de/dl/fi9XiZfrrwRknQydZbCdAvZ2/ChemieDerMetalle_Vorl_5-6_farbig.pdf?inline) | [vorlesung 5 & 6] |
-| | [vorlesung 7](https://faubox.rrze.uni-erlangen.de/dl/fiY8zPCeg9EVqhiwgyS3LBxm/ChemieDerMetalle_Vorl_7-0_farbig.pdf?inline) | [vorlesung 7] |
-| | [vorlesung 8 & 9](https://faubox.rrze.uni-erlangen.de/dl/fiVNowvME4GNMWrREFqreevE/ChemieDerMetalle_Vorl_8-9_farbig.pdf?inline) | [vorlesung 8 & 9] |
-|**Symmetrie und Gruppentheorie** | [vorlesung 10](https://faubox.rrze.uni-erlangen.de/dl/fiVX3d9A5c3GrzthHVbeMTnK/ChemieDerMetalle_Vorl_10-0farbig.pdf?inline) | [vorlesung 10] |
-| | [vorlesung 11 & 12](https://faubox.rrze.uni-erlangen.de/dl/fiejfbuiGFAJ4hw2QFENyMP/ChemieDerMetalle_Vorl_11-12_farbig.pdf?inline) | [vorlesung 11 & 12] |
-|**Koordinationschemie** | [vorlesung 13](https://faubox.rrze.uni-erlangen.de/dl/fi4CtLM9kmyz5je7i15B8Pmy/ChemieDerMetalle_Vorl_13-0_farbig.pdf?inline) | [vorlesung 13] |
-| | [vorlesung 14](https://faubox.rrze.uni-erlangen.de/dl/fiNDyAdoDtR2z3SRx4RL4j5w/ChemieDerMetalle_Vorl_14-0_farbig.pdf?inline) | [vorlesung 14] |
-| | [vorlesung 15 & 16](https://faubox.rrze.uni-erlangen.de/dl/fiNbDs4Hc8oAe8taGWqBm96f/ChemieDerMetalle_Vorl_15-16_farbig.pdf?inline) | [vorlesung 15 & 16] |
-| | [vorlesung 17 & 18](https://faubox.rrze.uni-erlangen.de/dl/fiFCqZQxnbfYLVyiCrjkvWYz/ChemieDerMetalle_Vorl_17-18_farbig.pdf?inline) | [vorlesung 17 & 18] |
-| | [vorlesung 19](https://faubox.rrze.uni-erlangen.de/dl/fiYbg5jytJmvknVgWc2WfZ1V/ChemieDerMetalle_Vorl_19-0_farbig.pdf?inline) | [vorlesung 19] |
-| | [vorlesung 20](https://faubox.rrze.uni-erlangen.de/dl/fiXaSbmkDeaKWAm4BF6ZobWV/ChemieDerMetalle_Vorl_20-0_farbig.pdf?inline) | [vorlesung 20] |
-| | [vorlesung 21 & 22](https://faubox.rrze.uni-erlangen.de/dl/fiJ78DtRbDVTZHMTrGWJtQEG/ChemieDerMetalle_Vorl_21-22_farbig.pdf?inline) | [vorlesung 21 & 22] |
+|**Festkörperchemie** | [vorlesung 1](https://faubox.rrze.uni-erlangen.de/dl/fiA21guK1cPaALFkuBCXwNme/ChemieDerMetalle_Vorl_1-0_farbig.pdf?inline) | [vorlesung 1](https://faubox.rrze.uni-erlangen.de/dl/fiRx7j5NmCoYpHeUTLBo3mRQ/ChemieDerMetalle_Vorl_1-0_sw.pdf?inline) |
+| | [vorlesung 2 & 3](https://faubox.rrze.uni-erlangen.de/dl/fiDCFSGY4Mz3dsPXSmVhqKrY/ChemieDerMetalle_Vorl_2-3_farbig.pdf?inline) | [vorlesung 2 & 3](https://faubox.rrze.uni-erlangen.de/dl/fiAwGkC5a6zAVGPiBVsd83z3/ChemieDerMetalle_Vorl_2-3_sw.pdf?inline) |
+| | [vorlesung 4](https://faubox.rrze.uni-erlangen.de/dl/fiD5rCYwA6AFdygPtDA26g3W/ChemieDerMetalle_Vorl_4-0_farbig.pdf?inline) | [vorlesung 4](https://faubox.rrze.uni-erlangen.de/dl/fiRzrYymyitHdLRSkgBZnV8h/ChemieDerMetalle_Vorl_4-0_sw.pdf?inline) |
+| | [vorlesung 5 & 6](https://faubox.rrze.uni-erlangen.de/dl/fi9XiZfrrwRknQydZbCdAvZ2/ChemieDerMetalle_Vorl_5-6_farbig.pdf?inline) | [vorlesung 5 & 6](https://faubox.rrze.uni-erlangen.de/dl/fiFw7iuEMQSp5smzzZvVfsSK/ChemieDerMetalle_Vorl_5-6_sw.pdf?inline) |
+| | [vorlesung 7](https://faubox.rrze.uni-erlangen.de/dl/fiY8zPCeg9EVqhiwgyS3LBxm/ChemieDerMetalle_Vorl_7-0_farbig.pdf?inline) | [vorlesung 7](https://faubox.rrze.uni-erlangen.de/dl/fiR7rKrXTgrVhwq9e9sVcq2o/ChemieDerMetalle_Vorl_7-0_sw.pdf?inline) |
+| | [vorlesung 8 & 9](https://faubox.rrze.uni-erlangen.de/dl/fiVNowvME4GNMWrREFqreevE/ChemieDerMetalle_Vorl_8-9_farbig.pdf?inline) | [vorlesung 8 & 9](https://faubox.rrze.uni-erlangen.de/dl/fiMLkx9g1drCoHHtBQX2QaVn/ChemieDerMetalle_Vorl_8-9_sw.pdf?inline) |
+|**Symmetrie und Gruppentheorie** | [vorlesung 10](https://faubox.rrze.uni-erlangen.de/dl/fiVX3d9A5c3GrzthHVbeMTnK/ChemieDerMetalle_Vorl_10-0farbig.pdf?inline) | [vorlesung 10](https://faubox.rrze.uni-erlangen.de/dl/fiF1AVRrcR5F3xPWkfk6NDH2/ChemieDerMetalle_Vorl_10-0_sw.pdf?inline) |
+| | [vorlesung 11 & 12](https://faubox.rrze.uni-erlangen.de/dl/fiejfbuiGFAJ4hw2QFENyMP/ChemieDerMetalle_Vorl_11-12_farbig.pdf?inline) | [vorlesung 11 & 12](https://faubox.rrze.uni-erlangen.de/dl/fiBm4jqUt2dCLRK5RFWrFBoz/ChemieDerMetalle_Vorl_11-12_sw.pdf?inline) |
+|**Koordinationschemie** | [vorlesung 13](https://faubox.rrze.uni-erlangen.de/dl/fi4CtLM9kmyz5je7i15B8Pmy/ChemieDerMetalle_Vorl_13-0_farbig.pdf?inline) | [vorlesung 13](https://faubox.rrze.uni-erlangen.de/dl/fiR8sSUrP7MRK3eMhwDXsmgN/ChemieDerMetalle_Vorl_13-0_sw.pdf?inline) |
+| | [vorlesung 14](https://faubox.rrze.uni-erlangen.de/dl/fiNDyAdoDtR2z3SRx4RL4j5w/ChemieDerMetalle_Vorl_14-0_farbig.pdf?inline) | [vorlesung 14](https://faubox.rrze.uni-erlangen.de/dl/fi4t6aLgNUq7gNM2PFKZeXbs/ChemieDerMetalle_Vorl_14-0_sw.pdf?inline) |
+| | [vorlesung 15 & 16](https://faubox.rrze.uni-erlangen.de/dl/fiNbDs4Hc8oAe8taGWqBm96f/ChemieDerMetalle_Vorl_15-16_farbig.pdf?inline) | [vorlesung 15 & 16](https://faubox.rrze.uni-erlangen.de/dl/fiDHF3uUSQqTigWeQ6usUKbG/ChemieDerMetalle_Vorl_15-16_sw.pdf?inline) |
+| | [vorlesung 17 & 18](https://faubox.rrze.uni-erlangen.de/dl/fiFCqZQxnbfYLVyiCrjkvWYz/ChemieDerMetalle_Vorl_17-18_farbig.pdf?inline) | [vorlesung 17 & 18](https://faubox.rrze.uni-erlangen.de/dl/fi7b6xQCeaou3cnPkDYy8wmJ/ChemieDerMetalle_Vorl_17-18_sw.pdf?inline) |
+| | [vorlesung 19](https://faubox.rrze.uni-erlangen.de/dl/fiYbg5jytJmvknVgWc2WfZ1V/ChemieDerMetalle_Vorl_19-0_farbig.pdf?inline) | [vorlesung 19](https://faubox.rrze.uni-erlangen.de/dl/fi6BSDpri2yst5ZL3YDnKnf8/ChemieDerMetalle_Vorl_19-0_sw.pdf?inline) |
+| | [vorlesung 20](https://faubox.rrze.uni-erlangen.de/dl/fiXaSbmkDeaKWAm4BF6ZobWV/ChemieDerMetalle_Vorl_20-0_farbig.pdf?inline) | [vorlesung 20](https://faubox.rrze.uni-erlangen.de/dl/fiL1gUnKy3JCBk7XVkW9rmmP/ChemieDerMetalle_Vorl_20-0_sw.pdf?inline) |
+| | [vorlesung 21 & 22](https://faubox.rrze.uni-erlangen.de/dl/fiJ78DtRbDVTZHMTrGWJtQEG/ChemieDerMetalle_Vorl_21-22_farbig.pdf?inline) | [vorlesung 21 & 22](https://faubox.rrze.uni-erlangen.de/dl/fiSaWy2wHfbeWGmVXiskRo2W/ChemieDerMetalle_Vorl_21-22_sw.pdf?inline) |
 |--|--|
 
 
