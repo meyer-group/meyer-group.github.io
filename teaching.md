@@ -52,7 +52,7 @@ permalink: /teaching/
 |--|--|
 
 
-#### [Review Dr Sutter (Stand: 2016)](https://faubox.rrze.uni-erlangen.de/dl/fiDELfpy4GfWka7UKZmnFxmG/ChemieDerMetalle_Review_2016.pdf?inline)
+#### [Review Dr. Sutter (Stand: 2016)](https://faubox.rrze.uni-erlangen.de/dl/fiDELfpy4GfWka7UKZmnFxmG/ChemieDerMetalle_Review_2016.pdf?inline)
 
 #### Vorlesungsfolien Dr. Marat Khusniyarov
 - [Folien](https://faubox.rrze.uni-erlangen.de/dl/fiWZKUYVm1QecF3KNZyss1mx/ChemieDerMetalle_Marat_Khusniyarov.pdf?inline)
@@ -81,8 +81,8 @@ permalink: /teaching/
 
 #### Skripte (farbig)
 
-- Spectroscopy 2016 v1
-- Physical Methods
+- [Spectroscopy Lecture](https://faubox.rrze.uni-erlangen.de/dl/fiBpbLBPGUSsMeM7efBqHBAX/Spectroscopy_2016_v1.pdf?inline)
+- [Physical Methods](https://faubox.rrze.uni-erlangen.de/dl/fiMUrPu2sc6LsSfsryUN9mPM/PhysicalMethods.pdf?inline)
 
 #### Recomended Books
 
@@ -97,7 +97,7 @@ permalink: /teaching/
 
 | farbig | s/w |
 |-----------------|-------------|
-| full lecture notes | full lecture notes |
+| [full lecture notes](https://faubox.rrze.uni-erlangen.de/dl/fiPGb9P61Q9NcWGQXUL4Bskw/StericPressureV2_color.pdf?inline) | [full lecture notes](https://faubox.rrze.uni-erlangen.de/dl/fiNUmMJuUyQRoGdtLGzYCQN7/Spectroscopy08_BW.pdf?inline) |
 |--|--|
 
 #### Recomended Books
@@ -110,13 +110,13 @@ permalink: /teaching/
 
 #### Allgemeine Informationen
 
-#### Recomended Books
-- Infrared and Raman fourth Edition
-- Infrared and Raman fifth Edition
-- Determining Term Symbols
-- UV/vis Absorbtionsspektroskopie
-- IR- und NMR- Spektroskopie (M.Moll/J.Sutter)
-- Präparate 1, 4, 5 (R. Beranek)
+#### Materialien zu den Praktikumsversuchen
+- [Infrared and Raman fourth Edition](https://faubox.rrze.uni-erlangen.de/dl/fiEbXd5XgVYvFB3YTwC4gfvE/Infraredand_RamanfourthEdition.pdf?inline)
+- [Infrared and Raman fifth Edition](https://faubox.rrze.uni-erlangen.de/dl/fiYCUVdhPURQB36aLCbQdGjC/InfrafedandRamanfifthEdition.pdf?inline)
+- [Determining Term Symbols](https://faubox.rrze.uni-erlangen.de/dl/fi28WHNE7vBmhfXmeKGbGAQr/SeminarDTS.pdf?inline)
+- [UV/vis Absorbtionsspektroskopie](https://faubox.rrze.uni-erlangen.de/dl/fiRwGwagesw1AfihLXpD2GLB/UVvisNIR_Spektroskopie.pdf?inline)
+- [IR- und NMR- Spektroskopie (M.Moll/J.Sutter)](https://faubox.rrze.uni-erlangen.de/dl/fiSjtdFXzTfXt3vmYf5KP6uZ/Seminar_IR_und_NMR_Spektroskopie-1.pdf?inline)
+- [Präparate 1, 4, 5 (R. Beranek)](https://faubox.rrze.uni-erlangen.de/dl/fiS2ir9eKsgvrxEfbocXn3q5/Seminar_P1_P4_P5_11112009.pdf?inline)
 
 
 
