@@ -13,10 +13,10 @@ permalink: /teaching/
 
 | farbig | s/w |
 |-----------------|-------------|
-| ac1 vorlesung ws 16/17 kapitel 1-13 | ac1 vorlesung ws 16/17 kapitel 1-13 |
-| ac1 vorlesung ws 16/17 kapitel 14-15 | ac1 vorlesung ws 16/17 kapitel 14-15 |
-| ac1 vorlesung ws 16/17 kapitel 16-18 | ac1 vorlesung ws 16/17 kapitel 16-18 |
-| ac1 vorlesung ws 16/17 konzepte final | ac1 vorlesung ws 16/17 konzepte final |
+| [ac1 vorlesung ws 16/17 kapitel 1-13](https://faubox.rrze.uni-erlangen.de/dl/fiHWuiUBano5t7TXLvcEzPiS/AC1_1617__Chemie_Teil3_13_2_1_bunt.pdf?inline) | [ac1 vorlesung ws 16/17 kapitel 1-13](https://faubox.rrze.uni-erlangen.de/dl/fiUfMtqxBSebxPNJE2omPF3k/AC1_1617__Chemie_Teil3_13_2_1_schwarzweiss.pdf?inline) |
+| [ac1 vorlesung ws 16/17 kapitel 14-15](https://faubox.rrze.uni-erlangen.de/dl/fiKHMgUnrXX28Dap4jBncnvU/AC1_1617__Chemie_Teil2_15_14_bunt.pdf?inline) | [ac1 vorlesung ws 16/17 kapitel 14-15](https://faubox.rrze.uni-erlangen.de/dl/fiHWuiUBano5t7TXLvcEzPiS/AC1_1617__Chemie_Teil3_13_2_1_bunt.pdf?inline) |
+| [ac1 vorlesung ws 16/17 kapitel 16-18](https://faubox.rrze.uni-erlangen.de/dl/fiY7ry6DpV1yZWmBF6pTMWow/AC1_1617__Chemie_Teil1_18_17_16_v1_bunt.pdf?inline) | [ac1 vorlesung ws 16/17 kapitel 16-18](https://faubox.rrze.uni-erlangen.de/dl/fi7o4bEqSRtU9jAX5eRebE9Z/AC1_1617_Chemie_Teil1_18_17_16_v1_schwarzweiss.pdf?inline) |
+| [ac1 vorlesung ws 16/17 konzepte final](https://faubox.rrze.uni-erlangen.de/dl/fiGPzDjjiKMXKEnRWXNCoo4Y/AC1_1617_Konzepte_v1_bunt.pdf?inline) | [ac1 vorlesung ws 16/17 konzepte final](https://faubox.rrze.uni-erlangen.de/dl/fi6rp9NBRtik8JGDQPgh7KuN/AC1_1617__Konzepte_final_schwarzweiss.pdf?inline) |
 |--|--|
 
 
