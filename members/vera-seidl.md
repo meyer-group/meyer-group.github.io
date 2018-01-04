@@ -26,7 +26,7 @@ _Thesis:_ Synthesis of Functionalized Imidazolium-based Ionic Liquids for the Im
 
 ## Current Research
 
-Synthesis of Functionalized Imidazolium-based Ionic Liquids and Their Related First-row Transition-Metal Complexes for the Immobilization om TiO2 Nanostructures
+Synthesis of Functionalized Ionic Liquids and Their Related Transition-Metal Complexes for the Immobilization om TiO2 Nanostructures.
 
 ## Publications
 

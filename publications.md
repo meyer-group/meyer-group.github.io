@@ -10,30 +10,30 @@ title: "Publications"
 ## Selected
 
 1. {% reference halter2016uranium %}
-	<http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature16530.html>
-	<https://www.fau.de/2016/01/news/wissenschaft/abfall-der-kernindustrie-dient-als-katalysator-fuer-die-produktion-von-wasserstoff-aus-wasser/>
-	<http://www.br.de/nachrichten/mittelfranken/inhalt/katalysator-uran-uni-erlangen-102.html>
-	<http://www.spektrum.de/news/uran-zum-wasserspalten/1400543>
-	<http://www.labo.de/news/produktion-von-wasserstoff-aus-wasser-mittels-uran-basiertem-katalysator.htm>
-	<http://www.analytik-news.de/Presse/2016/54.html>
+	[get it here](http://www.nature.com/nature/journal/vaop/ncurrent/abs/nature16530.html)
+	[fau news](https://www.fau.de/2016/01/news/wissenschaft/abfall-der-kernindustrie-dient-als-katalysator-fuer-die-produktion-von-wasserstoff-aus-wasser/)
+	[BR news](http://www.br.de/nachrichten/mittelfranken/inhalt/katalysator-uran-uni-erlangen-102.html)
+	[Spectrum.de news](http://www.spektrum.de/news/uran-zum-wasserspalten/1400543)
+	[labo.de news](http://www.labo.de/news/produktion-von-wasserstoff-aus-wasser-mittels-uran-basiertem-katalysator.htm)
+	[analytic news](http://www.analytik-news.de/Presse/2016/54.html)
 2. {% reference malischewski2016isolation %}
-	<http://apps.webofknowledge.com/InboundService.do?mode=FullRecord&customersID=RID&IsProductCode=Yes&product=WOS&Init=Yes&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com&action=retrieve&SrcApp=RID&SrcAuth=RID&SID=Y2K5QSTTakAgNknlDRE&UT=WOS%3A000381561200035>
-	<http://pubs.acs.org/doi/abs/10.1021/ja508144j>
+	[get it here](http://apps.webofknowledge.com/InboundService.do?mode=FullRecord&customersID=RID&IsProductCode=Yes&product=WOS&Init=Yes&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com&action=retrieve&SrcApp=RID&SrcAuth=RID&SID=Y2K5QSTTakAgNknlDRE&UT=WOS%3A000381561200035)
+	[get it here](http://pubs.acs.org/doi/abs/10.1021/ja508144j)
 3. {% reference schmidt2014molecular %}
-	<http://pubs.acs.org/doi/abs/10.1021/ja411627z>
-	<http://pubs.acs.org/doi/pdf/10.1021/ja504528n>
-	<http://pubs.acs.org/action/showLargeCover?issue=407259848>
+	[get it here](http://pubs.acs.org/doi/abs/10.1021/ja411627z)
+	[cover](http://pubs.acs.org/doi/pdf/10.1021/ja504528n)
+	[spotlight](http://pubs.acs.org/action/showLargeCover?issue=407259848)
 4. {% reference pierre2014synthesis %}
-	<http://pubs.acs.org/doi/abs/10.1021/ja411627z>
-	<http://onlinelibrary.wiley.com/doi/10.1002/anie.201402050/abstract>
+	[get it here](http://pubs.acs.org/doi/abs/10.1021/ja411627z)
+	[get it here](http://onlinelibrary.wiley.com/doi/10.1002/anie.201402050/abstract
 5. {% reference scholz2013crystal %}
-	<http://www.sciencemag.org/content/341/6141/62.full>
-	<http://cen.acs.org/articles/91/i27/Solving-Old-Bonding-Debate.html>
-	<http://www.rsc.org/chemistryworld/2013/07/norbornyl-cation-nonclassical-structure-olah-herb-brown>
-	<http://www.rsc.org/chemistryworld/2013/07/norbornyl-nonclassical-cation-brown-winstein-olah>
-	<http://www.sciencedaily.com/releases/2013/07/130709124000.htm>
-	<http://phys.org/news/2013-07-german-scientists-nonclassical-norbornyl-carbocation.html>
-	<http://luysii.wordpress.com/2013/07/08/schleyer-is-still-pumping-out-papers-crystallization-of-a-nonclassical-norbornyl-cation/>
+	[cen highlight](http://www.sciencemag.org/content/341/6141/62.full)
+	[rsc highlight](http://cen.acs.org/articles/91/i27/Solving-Old-Bonding-Debate.html)
+	[rsc follow-up](http://www.rsc.org/chemistryworld/2013/07/norbornyl-cation-nonclassical-structure-olah-herb-brown)
+	[science daily news](http://www.rsc.org/chemistryworld/2013/07/norbornyl-nonclassical-cation-brown-winstein-olah)
+	[phys.org highlight](http://www.sciencedaily.com/releases/2013/07/130709124000.htm)
+	[commontary](http://phys.org/news/2013-07-german-scientists-nonclassical-norbornyl-carbocation.html)
+	[ChiuZ report](http://luysii.wordpress.com/2013/07/08/schleyer-is-still-pumping-out-papers-crystallization-of-a-nonclassical-norbornyl-cation/)
 	[PDF](/assets/pdf/ChiuZ.pdf)
 6. {% reference kropp2012manganese %}
 	<http://pubs.rsc.org/en/content/articlelanding/2012/cc/c2cc34150f>
