@@ -12,7 +12,13 @@ with open('pubs.json', 'r') as inf:
 
 def bibtex(p, store):
 	# first, get the obvious
-	authors = p['authors']
+	authors = re.split(r', | and ', p['authors'])
+	def rev(a):
+		names = a.split(' ')
+		return "%s, %s" % (names[-1], " ".join(names[:-1]))
+	authors = " and ".join(map(rev, authors))
+	
+
 	title = p['title']
 	year = p['year']
 

@@ -28,10 +28,13 @@ navigation:
    url: /teaching
 
 scholar:
-  style: ieee
+  style: https://www.zotero.org/styles/american-chemical-society-with-titles-doi-no-et-al
   sort_by: year
   order: descending
+  group_by: year
+  group_order: descending
   bibliography: bibliography.bib
+  bibliography_template: bib
 
 social:
    github: meyer-group

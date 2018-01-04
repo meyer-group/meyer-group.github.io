@@ -414,6 +414,22 @@ PAGE STYLING
 }
 
 /***************
+PUBS STYLING
+***************/
+
+.pubs {
+	font-size: 80%;
+
+	ol {
+		padding-left: 0;
+		li {
+			list-style: none;
+			margin-bottom: 1rem;
+		}
+	}
+}
+
+/***************
 TEAM STYLING
 ***************/
 
