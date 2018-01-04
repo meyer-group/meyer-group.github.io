@@ -7,9 +7,9 @@ permalink: /teaching/
 
 ## Allgemeine und Anorganische Chemie
 
-### Wintersemester 2016 - 2017: Vorlesungsmaterialien, Skripte & zusaetzliche Informationen 
+### Wintersemester 2016 - 2017: 
 
-#### Skripte 
+#### Skripte
 
 | farbig | s/w |
 |-----------------|-------------|
@@ -20,110 +20,96 @@ permalink: /teaching/
 |--|--|
 
 
-### Recomended Books
+#### Recomended Books
 
 - Chemie: Die zentrale Wissenschaft (Theodore L. Brown,‎ H. Eugene LeMay,‎ Bruce E. Bursten)
 - Lehrbuch der Anorganischen Chemie (Nils Wiberg, Arnold F. Holleman,‎ Egon Wiberg)
 
 
-# Chemie der Metalle
+## Chemie der Metalle
 
-## Sommersemester 2012: Vorlesungsmaterialien, Skripte & zusaetzliche Informationen 
+### Sommersemester 2012: 
 
-### Skripte (farbig)
+#### Skripte
 
-#### Festkörperchemie
+| Themengebiet| farbig | s/w |
+|-------------|--------|-----|
+|**Festkörperchemie** <br> vorlesungen 1 - 9 | vorlesung 1| vorlesung 1 |
+| | vorlesung 2 & 3 | vorlesung 2 & 3|
+| | vorlesung 4 | vorlesung 4 |
+| | vorlesung 5 & 6 | vorlesung 5 & 6 |
+| | vorlesung 7 | vorlesung 7 |
+| | vorlesung 8 & 9 | vorlesung 8 & 9 |
+|**Symmetrie und Gruppentheorie** <br> vorlesungen 10 - 12 | vorlesung 10| vorlesung 10 |
+| | vorlesung 11 & 12 | vorlesung 11 & 12 |
+|**Koordinationschemie** <br> vorlesungen 13 - 22| vorlesung 13| vorlesung 13 |
+| | vorlesung 14 | vorlesung 14 |
+| | vorlesung 15 & 16 | vorlesung 15 & 16 |
+| | vorlesung 17 & 18 | vorlesung 17 & 18 |
+| | vorlesung 19 | vorlesung 19 |
+| | vorlesung 20 | vorlesung 20 |
+| | vorlesung 21 & 22 | vorlesung 21 & 22 |
+|--|--|
 
-- vorlesung 1
-- vorlesung 2 & 3
-- vorlesung 4
-- vorlesung 5 & 6
-- vorlesung 7
-- vorlesung 8 & 9
-
-#### Symmetrie und Gruppentheorie
-
-- vorlesung 10
-- vorlesung 11 & 12
-
-#### ???
-
-- vorlesung 13
-- vorlesung 14
-- vorlesung 15 - 16
-- vorlesung 17 - 18
-- vorlesung 19
-- vorlesung 20
-- vorlesung 21 - 22
-
-
-
-### Skripte (schwarz-weiß)
-
-#### Festkörperchemie
-
-- vorlesung 1
-- vorlesung 2 & 3
-- vorlesung 4
-- vorlesung 5 & 6
-- vorlesung 7
-- vorlesung 8 & 9
-
-#### Symmetrie und Gruppentheorie
-
-- vorlesung 10
-- vorlesung 11 & 12
-
-#### Koordinationschemie
-
-- vorlesung 13
-- vorlesung 14
-- vorlesung 15 - 16
-- vorlesung 17 - 18
-- vorlesung 19
-- vorlesung 20
-- vorlesung 21 - 22
 
 #### Vorlesungsfolien Dr. Marat Khusniyarov
 
-#### Ergänzungen
+#### Vorlesung Ergänzungen
 
 #### Lernzielkatalog
 
-### Recomended Books
+#### solar energy conversion
 
-- Chemie: Die zentrale Wissenschaft (Theodore L. Brown,‎ H. Eugene LeMay,‎ Bruce E. Bursten)
-- Lehrbuch der Anorganischen Chemie (Nils Wiberg, Arnold F. Holleman,‎ Egon Wiberg)
+#### daniel nocera (mit)
+	
+#### Alfred Werner
 
-# Inorganic Spectroscopy (Spectroscpy from a Chemist's Point of View)
+#### Koordinationschemie
 
-## Wintersemester 2016 - 2017: Vorlesungsmaterialien, Skripte & zusaetzliche Informationen
+#### Recomended Books
 
-### Skripte (farbig)
+- Riedel Moderne Anorganische Chemie (Hans-Jürgen Meyer,‎ Christoph Janiak,‎ Dietrich Gudat)
+- Symmetrie and Structure (S. F. A. Kettle)
+- Chemical Applications of Group Theory (Frank Albert Cotton)
+- Inorganic Chemistry (Gary L. Miessler, Donald Arthur Tarr)
+- Koordinationschemie (Lutz H. Gade)
+
+## Inorganic Spectroscopy (Spectroscpy from a Chemist's Point of View)
+
+### Wintersemester 2016 - 2017: 
+
+#### Skripte (farbig)
 
 - Spectroscopy 2016 v1
 - Physical Methods
 
-### Recomended Books
+#### Recomended Books
+
+- Inorganic Chemistry (Gary L. Miessler, Donald Arthur Tarr)
 
 
-#  Steric Pressure and the Effect on Molecular & Electronic Structures, and Reactivity
+##  Steric Pressure and the Effect on Molecular & Electronic Structures, and Reactivity
 
-## Sommersemester 2008: Vorlesungsmaterialien, Skripte & zusaetzliche Informationen
+### Sommersemester 2008: 
 
-### Skripte (farbig)
+#### Skripte 
 
-- full lecture notes
+| farbig | s/w |
+|-----------------|-------------|
+| full lecture notes | full lecture notes |
+|--|--|
 
-### Recomended Books
+#### Recomended Books
 
-# Seminar: Materialien zu den Praktikumsversuchen
+- Inorganic Chemistry (Gary L. Miessler, Donald Arthur Tarr)
 
-## Sommersemester 2009
+## Seminar: Materialien zu den Praktikumsversuchen
 
-### Allgemeine Informationen
+### Sommersemester 2009
 
-### Recomended Books
+#### Allgemeine Informationen
+
+#### Recomended Books
 - Infrared and Raman fourth Edition
 - Infrared and Raman fifth Edition
 - Determining Term Symbols
