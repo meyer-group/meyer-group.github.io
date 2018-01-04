@@ -8,7 +8,7 @@ permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [jekyll-paginate]
+gems: [ 'jekyll-paginate', 'jekyll/scholar' ]
 paginate: 5
 
 exclude: ["_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import"]
@@ -26,6 +26,12 @@ navigation:
    url: /publications
  - title: Teaching
    url: /teaching
+
+scholar:
+  style: ieee
+  sort_by: year
+  order: descending
+  bibliography: bibliography.bib
 
 social:
    github: meyer-group

@@ -1800,7 +1800,8 @@
         },
         {
             "authors": "O.P. Lam, F.W. Heinemann and K. Meyer",
-            "jour": "C. R. Chimie 2010, 13, 803-811 (special issue on f-Element Chemistry)",
+            "jour": "C. R. Chimie 2010, 13, 803-811",
+            "note": "special issue on f-Element Chemistry",
             "links": [
                 {
                     "href": "http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6X18-4YYVCSP-1&_user=616145&_coverDate=07%2F31%2F2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1479757550&_rerunOrigin=google&_acct=C000032322&_version=1&_urlVersion=0&_userid=616145&md5=62e1e6bffcc4e265f5f1bde43dc44e48&searchtype=a",
@@ -1872,13 +1873,14 @@
         },
         {
             "authors": "O.P. Lam, C. Anthon and K. Meyer",
-            "jour": "Dalton Trans. 2009, 44, 9677-9691 (invited review, Dalton Perspectives)",
+            "jour": "Dalton Trans. 2009, 44, 9677-9691",
             "links": [
                 {
                     "href": "http://pubs.rsc.org/en/Content/ArticleLanding/2009/DT/b905537a",
                     "text": "get it here"
                 }
             ],
+            "note": "invited review, Dalton Perspectives",
             "title": "Influence of Steric Pressure on the Activation of Carbon Dioxide and Related Small Molecules by Uranium Coordination Compounds",
             "year": 2009
         },
@@ -2081,7 +2083,8 @@
                     "text": "get it here"
                 }
             ],
-            "title": "Small Molecule Activation at Uranium Coordination Complexes: Control of Reactivity via Molecular Architecture (invited feature Article)",
+            "title": "Small Molecule Activation at Uranium Coordination Complexes: Control of Reactivity via Molecular Architecture",
+            "note": "invited feature Article",
             "year": 2006
         },
         {
@@ -2313,13 +2316,14 @@
         },
         {
             "authors": "X. Hu and K. Meyer",
-            "jour": "Inorg. Chim. Acta. 2002, 337, 53-58 (special edition in honor of Karl Wieghardts 60th Birthday)",
+            "jour": "Inorg. Chim. Acta. 2002, 337, 53-58",
             "links": [
                 {
                     "href": "http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TG5-46DT43S-2&_user=616145&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_version=1&_urlVersion=0&_userid=616145&md5=004111a2359696cce1257c92189e059c",
                     "text": "get it here"
                 }
             ],
+            "note": "special edition in honor of Karl Wieghardts 60th Birthday",
             "title": "Identification of Iron Cyclam Complexes Encapsulated Inside Zeolite Y",
             "year": 2002
         },

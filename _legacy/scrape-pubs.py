@@ -87,5 +87,7 @@ for g in pubs:
 			print >> sys.stderr, e
 			print >> sys.stderr, traceback.format_exc()
 
-print json.dumps(pubs, sort_keys=True, indent=4, separators=(',', ': '))
 
+# write json
+with open('pubs.json', 'w') as of:
+	json.dump(pubs, of, sort_keys=True, indent=4, separators=(',', ': '))
