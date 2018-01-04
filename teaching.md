@@ -52,19 +52,20 @@ permalink: /teaching/
 |--|--|
 
 
+#### [Review Dr Sutter (Stand: 2016)](https://faubox.rrze.uni-erlangen.de/dl/fiDELfpy4GfWka7UKZmnFxmG/ChemieDerMetalle_Review_2016.pdf?inline)
+
 #### Vorlesungsfolien Dr. Marat Khusniyarov
+- [Folien](https://faubox.rrze.uni-erlangen.de/dl/fiWZKUYVm1QecF3KNZyss1mx/ChemieDerMetalle_Marat_Khusniyarov.pdf?inline)
+- [Ergänzungen](https://faubox.rrze.uni-erlangen.de/dl/fiAge3Z71nKmiMKnJS1m8Wqr/ChemieDerMetalle-Marat_Khusniyarov_Ergaenzungen.pdf?inline)
 
-#### Vorlesung Ergänzungen
+#### Lernzielkataloge
+- [Lernzielkatalog 1](https://faubox.rrze.uni-erlangen.de/dl/fiXfK4Fk8DXDu7ywqEkWZK3G/LernzielkatalogCdM.pdf?inline)
+- [Lernzielkatalog 2](https://faubox.rrze.uni-erlangen.de/dl/fiMvHUy7sWDyYabfd4GRQ3dN/LernzielkatalogCdM_%281%29.pdf?inline)
+- [Lernzielkatalog 3](https://faubox.rrze.uni-erlangen.de/dl/fi7S1imzxdmwV7XAeRTQjdbp/LernzielkatalogCdM_%282%29.pdf?inline)
 
-#### Lernzielkatalog
-
-#### solar energy conversion
-
-#### daniel nocera (mit)
+#### [Daniel Nocera: solar energy conversion](https://faubox.rrze.uni-erlangen.de/dl/fi42L3FJWDbYFCc9Gt2AgYyM/Nocera.pdf?inline)
 	
-#### Alfred Werner
-
-#### Koordinationschemie
+#### [Alfred Werner: Koordinationschemie](https://faubox.rrze.uni-erlangen.de/dl/fiJbYgSHW41KWdbAgzmzqd85/AlfredWerner.pdf?inline)
 
 #### Recomended Books
 
