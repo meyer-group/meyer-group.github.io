@@ -1,5 +1,61 @@
 ---
-layout: default
+title: "Meyer Group"
 ---
 
-<h1>This will be the landing page!</h1>
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+{% include head.html %}
+
+<body class="welcome">
+
+<style>
+.button {
+    background-color: #111;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.cover {
+	padding-top:150px; 
+	width: 100%;
+	height: 100%;
+	min-width: 414px;
+	position: absolute;
+	background-image: url(/assets/img/bmw-m3.jpg); 
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.taped {
+	background-color: #eee;
+	text-decoration: none;
+	line-height: 3em;
+	padding: 1rem;
+}
+
+.taped a {
+	text-decoration: none;
+}
+</style>
+
+<div class="cover">
+<div class="container">
+  <h1 class="logo" style="margin-bottom: 0"><a class="taped" href="{{ site.baseurl }}/news/">{{ site.title }}</a></h1>
+  <h4 style="margin-top: 0"><span class="taped">Inorganic Chemistry at <a href="https://www.chemie.nat.fau.de/person/karsten-meyer/">FAU Erlangen-Nuremberg</a></span></h4>
+  <div><a class="button" href="{{ site.baseurl }}/news/">enter site</a></div>
+</div>
+</div>
+
+</body>
+</html>
