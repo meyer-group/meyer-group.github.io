@@ -3,19 +3,25 @@ description: "Prof. Dr. Karsten Meyer at Univ. Erlangen-Nuremberg"
 
 url: http://inorganic-chemistry.net
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-gems: [ 'jekyll-paginate', 'jekyll/scholar' ]
-paginate: 5
+
+plugins: [ 'jekyll-paginate-v2', 'jekyll/scholar' ]
+
+pagination: 
+  enabled: true
+  debug: false
+  per_page: 10
+  sort_reverse: true
+  indexpage: news
+  permalink: /news/:num
 
 exclude: ["_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import"]
 
 navigation:
  - title: News
-   url: /index.html
+   url: /news
  - title: Team
    url: /team
  - title: Research
