@@ -7,43 +7,36 @@ permalink: /team/km
 <img src="/assets/img/Karsten_Meyer.jpg" class="img-responsive">
 
 
-# Curriculum Vitae [(_pdf_)](/assets/pdf/KMeyer_eCV_2017.pdf)
+## Curriculum Vitae [(_pdf_)](/assets/pdf/KMeyer_eCV_2017.pdf)
 
-## Education
+### Education
 
-### Postdoc
-
+- **Postdoc**<br>
 Massachusetts Institute of Technology (MIT)<br>
 Advisor: Prof. Christopher C. Cummins<br>
-
-
-### Dr. rer. nat. (_summa cum laude_)
-
+- **Dr. rer. nat. (_summa cum laude_)**<br>
 Max-Planck-Institute for Bioinorganic Chemistry (previously MPI for Radiation Chemistry) Mülheim a. d. Ruhr, Germany, Jan. 1998 <br>
 Advisor: Prof. Karl Wieghardt<br>
 Dissertation: "Molecular and Electronic Structure of High-Valent Transition Metal Nitrido Complexes"
-
-### Diploma in Chemistry
-
+- **Diploma in Chemistry** <br>
 Ruhr-University Bochum, Germany, May 1995<br>
 Advisor: Prof. Karl Wieghardt 
 
+### Research Fellowships and Experience
 
-## Research Fellowships and Experience
-
-- Jan. 2006 - present<br>
+- Jan. 2006 - present: <br>
 Professor at FAU Erlangen-Nuremberg (Chair of Inorganic Chemistry II)
-- Jan. 2001 - 2005<br> 
+- Jan. 2001 - 2005: <br> 
 Assistant Professor at UCSD
-- Oct. 1998 - Oct. 2000<br> 
+- Oct. 1998 - Oct. 2000: <br> 
 Postdoctoral Fellow, Deutsche Forschungsgemeinschaft (DFG) at MIT with Prof. Christopher C. Cummins
-- Feb. 1998 - Oct. 1998<br> 
+- Feb. 1998 - Oct. 1998: <br> 
 Research Fellowship, Max-Planck-Society
-- July 1995 - Jan. 1998<br> 
+- July 1995 - Jan. 1998: <br> 
 Ph.D. Fellowship, Max-Planck-Society
 
  
-## Awards
+### Awards
 - DFG Postdoctoral Fellowship, Deutsche Forschungsgemeinschaft, 1999/2000
 - Hellman Fellow, Chris & Warren Hellman Young Faculty Award, 2002
 - Faculty Career Development Award, Academic Senate, 2003
@@ -61,7 +54,7 @@ Ph.D. Fellowship, Max-Planck-Society
 - L.A. Chugaev Commemorative Medal, Russian Academy of Sciences 2017
 
  
-## Memberships
+### Memberships
 - German Chemical Society, Member (since 1995)
 - Fachgruppe Nuklearchemie, Member (since 2016)
 - American Chemical Society, Member (since 1997)
@@ -70,7 +63,7 @@ Ph.D. Fellowship, Max-Planck-Society
 
   
 
-## Professional Affiliations
+### Professional Affiliations
 - Associate Editor, ACS Organometallics, since 2014
 - Speaker of Sonderforschungsbereich 583, DFG, 2006 - 2012
 - Member of the International Advisory Board, "European Journal of Inorganic Chemistry", since 2009
@@ -87,9 +80,9 @@ Ph.D. Fellowship, Max-Planck-Society
 - Delegate of the Managing Committee COST Action CM1006 "EUFEN: European f-Element Network". since 2011
 
 
-## Invited Lectures
+### Invited Lectures
 
-### 2017
+#### 2017
 - Award Lecture, Valencia Spain, November 2017. Invited Talk
 - Electric Power University of North China, Beijing China, November 2017. Invited Talk
 - Beijing University, China, November 2017. Invited Talk
@@ -113,7 +106,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
 
 
-### 2016
+#### 2016
 - ACS Meeting, Philadelphia, USA, August 2016. Invited Talk
 - Eröffnungsvortrag Sommerfest, Universität zu Köln, Juli 2016. Invited Talk
 - Secondary and Unconventional Uranium Sources, Future Use of HEU, Depleted, and Reprocessed Uranium, Vienna, Juni 2016. Invited Talk
@@ -132,7 +125,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 - GDCh Vortrag, Technische Universität München, Mai 2016. Invited Talk
 
 
-### 2015
+#### 2015
 - Pacifichem 2015, Honolulu, Hawaii, USA, Dezember 2015. Invited Talk
 - GDCh Vortrag, Universität Bayreuth, November 2015. Invited Talk
 - Nagoya Institute of Technology, Nagoya, Japan, September 2015. Invited Talk
@@ -153,7 +146,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
 
 
-### 2014
+#### 2014
 - AREVA Symposium, Avignon, France, September 2014. Invited Talk
 - University of California, Irvine, USA, August 2014. Invited Talk
 - ACS Meeting, San Francisco, USA, August 2014. Invited Talk
@@ -164,7 +157,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
  
 
-### 2013
+#### 2013
 - King Abdullah University of Science and Technology (KAUST), Saudi Arabia, December 2013. Invited Talk
 - Ariel University, Jerusalem, Israel, November 2013. Invited Talk
 - Ben Gurion University, Be’er Sheva, Israel, November 2013. Invited Talk
@@ -186,7 +179,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
  
 
-### 2012
+#### 2012
 - Westfälische-Wilhelms-Universität Münster, Dezember 2012. GDCh Vortrag
 - Technical University of Denmark, Lyngby, Denmark, October 2012. Invited Talk
 - University of Copenhagen, Denmark, October 2012. Invited Talk
@@ -206,7 +199,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
 
 
-### 2011
+#### 2011
 - Cambridge University, UK, November 2011. Invited Talk
 - Universität Stuttgart, November 2011. GDCh-Vortrag
 - Lawrence Berkeley National Laboratory, San Francisco, CA, USA, October 2011. LBNL Review
@@ -224,7 +217,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
 
 
-### 2010
+#### 2010
 - 2010 International Chemical Congress of Pacific Basin Societies, Honolulu, Hawaii, Dezember 2010, Invited Talk
 - TU Kaiserslautern, November 2010, Invited Talk
 - YoungChem 2010, Reda, Poland, October 2010. Plenary Lecture
@@ -247,7 +240,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
 
 
-### 2009
+#### 2009
 - TU Berlin, Dezember 2009. Anorganisches Kolloquium
 - Goethe Universität Frankfurt, Dezember 2009. Anorganisches Kolloquium
 - Nottingham University, UK, October 2009. Invited Seminar
@@ -272,7 +265,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 
 
 
-### 2008
+#### 2008
 - Georg-August-Universität Göttingen, Dez. 2008. GDCh Vortrag
 - Bayer Technology, Leverkusen, Nov. 2008. Invited Lecture
 - Ruperto Carola Symposium Bioenergy Conversion, Universität Heidelberg, Okt. 2008. Invited Lecture
@@ -288,7 +281,7 @@ Symposium in Honor of Bruce Bursten. Invited Talk
 - Universität Bayreuth, Jan. 2008. Invited Seminar
 
 
-### 2007
+#### 2007
 - Universität Karlsruhe (TH), Dez. 2007. Invited Seminar
 - Mie University, Tsu-Mie, Japan, Nov. 2007. Invited Seminar
 - Hiroshima University, Higashi-Hiroshima, Japan, Nov. 2007. Invited Seminar
@@ -308,7 +301,7 @@ University of Amsterdam, The Netherlands, Nov. 2007. Invited Talk
 - 233rd ACS Meeting, Chicago, Illinois, USA, March 2007. F. Albert Cotton Award Symposium in Honor of Christopher C. Cummins. Invited Talk
 
 
-### 2006
+#### 2006
 - Rheinische Friedrich-Wilhelms-Universität Bonn, Chemischen Institute. Bonn, Nov. 2006. Anorganisches Kolloquium
 - Workshop on the Chemistry of Actinide Molecular Clusters, Forschungszentrum Karlsruhe, Institute for Transuranium Elements (ITU), Karlsruhe, Nov. 2006. Invited Talk
 - Symposium. Universität Erlangen, Okt. 2006. Invited Talk
@@ -327,7 +320,7 @@ University of Amsterdam, The Netherlands, Nov. 2007. Invited Talk
 
 
 
-### 2005
+#### 2005
 - Uranium Complexes for Small Molecule Activation Chemistry: Control of Reactivity via Molecular Architecture.
 Seminar. Texas A&M University. College Station, TX. Sept. 2005. Invited Talk
 - Alkane Coordination, CO/CO2 Activation & Nitrogen Atom Transfer Chemistry Utilizing Low- and High-Valent Uranium Coordination Complexes.
@@ -345,7 +338,7 @@ Seminar. Technical University Munich, Germany. Jan. 2005. Invited Talk
 
 
 
-### 2004
+#### 2004
 - Small Molecule Activation at Transition Metal and Uranium Centers in New Trigonal Coordination Environments.
 Seminar. Universitat Rovira i Virgili, Tarragona, Spain. Nov. 2004. Invited Talk.
 - Small Molecule Activation at Transition Metal and Uranium Centers in New Trigonal Coordination Environments.
@@ -376,7 +369,7 @@ Discussion Leader: Structure & Bonding. Salve Regina University, Newport, Rhode 
 Discussion Leader: Actinide Coordination Chemistry, Washington DC, May 2004.
 
 
-### 2003
+#### 2003
 - Hot Chemistry with Depleted Uranium: From Carbene and Alkane Coordination to Small Molecule Activation.
 Departmental Seminar. Case Western Reserve University, Cleveland, OH. Nov. 2003. Invited Talk.
 - Synthesis and Characterization of Tripodal Carbene Ligands and Their Metal Complexes. Insights into the Electronic Structure of Diaminocarbene Metal Complexes.
@@ -400,7 +393,7 @@ Plutonium Futures 2003-The Science Conference, Albuquerque, New Mexico, July 200
 
 
 
-### 2002
+#### 2002
 - Metal Complexes of Novel Tripodal N-Heterocycliuc Carbene Ligands: A Combined Synthetic, Spectroscopic, and Computational Study.
 Inorganic Chemistry Seminar, Westfaelische-Wilhelms-Universitaet Muenster, Germany, Dec. 2002.
 - Uranium Tris-Aryloxide Derivatives Supported by Triazacyclononane: Engendering a Reactive Uranium(III) Center with a Single Pocket for Reactivity.
@@ -410,7 +403,7 @@ Lecture in Honor of Prof. Karl Wieghardt's 60th Birthday, Max-Planck-Institute f
 
 
 
-### pre 2000
+#### pre 2000
 - Molecular and Electronic Structure of Simple High-Valent Cr, Mn, Fe, and U complexes.
 - Inorganic Chemistry Seminar, Yale University, New Haven, CT, Jan. 2000.
 - Inorganic Chemistry Seminar, Indiana University, Bloomington, IN, Jan. 2000.
