@@ -17,7 +17,7 @@ pagination:
   indexpage: news
   permalink: /news/:num
 
-exclude: ["_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import"]
+exclude: ["_bibliography", "vendor", "_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import"]
 
 navigation:
  - title: News
