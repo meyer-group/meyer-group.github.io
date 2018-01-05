@@ -31,7 +31,7 @@ office: A 3.4-3.5, Egerlandstr. 1, 91058 Erlangen <br>
 - [Students](/students/)
 - [Staff](/staff/)
 - [Munz Group](/munz-group/)
-- [Kushniarow Group](https://www.chemistry.nat.fau.eu/khusniyarov-group/)
+- [Khusniyarov Group](https://www.chemistry.nat.fau.eu/khusniyarov-group/)
 - [Alumni](/alumni/)
 
 
