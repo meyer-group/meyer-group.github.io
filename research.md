@@ -27,56 +27,40 @@ In our efforts to activate small molecules of industrial and biological importan
 For example, the chelating triazacyclononane (tacn), single N, and arene-anchored tris­(aryloxide) ligands, (ArO)3tacn3–, (ArO)3N3–, and (ArO)3mes3– have provided access to reactive coordination compounds of uranium in oxidation states II, III, IV, V, and VI with tailorable steric and electronic profiles. 
 These complexes display a pro­nounced selectivity and reactivity in reactions with carbon dioxide, related small heteroallene molecules (COS and CS2), and H2O.
 
-![Meyer Group](/assets/img/actinide2a.jpg)
+<p>
+  <img src="/assets/img/actinide2a.jpg" height="200" />
+</p>
 
 Recently, the stoichio­metric and catalytic "disproportionation" of CO2 to CO and CO32– via reductive cleavage of CO2 was accomplished. 
 In analogy, we were able to isolate an entire series of chalco­genide mixed-carbonate complexes by reacting bridged chalco­genide complexes U‒E‒U (E = S, Se, Te) with CO2, CS2, and COS. 
 With respect to fundamental understanding of actinide chemistry, the molecular and electronic structure of a new oxidation state in U coordination chemistry, namely U(II), with a 5f 4 quintet ground state was stabilized by a mesitylene anchored tris­(aryloxide) ligand. 
 In K(crypt)­[((Ad,MeArO)3­mes)­U], the U(II) center is supported by d backbonding, a general motive of the (ArO)3mes3– ligand.
 
-![Meyer Group](/assets/img/actinide2b.jpg)
+<p>
+  <img src="/assets/img/actinide2b.jpg" height="200" />
+</p>
+
 
 In analogy to the CO2 reduction, a rare U(IV) hydroxo complex, [((Ad,MeArO)3mes)U(OH)], with a terminal OH functionality was synthesized by selective reduction of H2O with the U(III) complex [((Ad,MeArO)3mes)U]. 
 Mechanistic studies were performed to understand this fundamental reaction, establishing the basis of catalytic H2O reduction for H2 evolution. 
 Comprehensive electrochemical studies revealed that the U(III) complex can be regenerated in a catalytic cycle combining chemical and electrochemical reaction steps to produce H2 from water.
 Most recent projects comprise the development of air and water stable U(IV) complexes for catalysis, the utilization of U(III) species with monodentate ligands for N2, N2O and NO activation, and finally the immobilization of catalysts on electrode surfaces.
 
-![Meyer Group](/assets/img/actinide2c.jpg)
-![Meyer Group](/assets/img/actinide2d.jpg)
+<p>
+  <img src="/assets/img/actinide2c.jpg" height="200" />
+  <img src="/assets/img/actinide2d.jpg" height="200" />
+</p>
 
-For details on the research interest please see:
+**_For details on the research interest please see:_**
 
-
-D. P. Halter, F.W. Heinemann, J. Bachmann, and K. Meyer
-"Uranium-Mediated Electrocatalytic H­2 Production from Water"
-Nature 2016, 530, 317–321.
-
-A.-C. Schmidt, A.V. Nizovtsev, A. Scheurer, F.W. Heinemann and K. Meyer
-"Uranium-Mediated Reductive Conversion of CO2 to CO and Carbonate in a Single-Vessel Closed Synthetic Cycle" Chem. Comm. 2012, 48, 8634–8636.
-
-S.M. Franke, F.W. Heinemann and K. Meyer
-"Reactivity of Uranium(IV) Bridged Chalcogenido Complexes UIV-E-UIV (E = S, Se) with Elemental Sulfur and Selenium: Synthesis of Polychalcogenido-Bridged Uranium Complexes"
-Chem. Sci. 2014, 5, 942–950.
-
-O.P. Lam, S.M. Franke, F.W. Heinemann and K. Meyer
-"Reactivity of U-E-U (E = S, Se) Towards CO2, CS2, and COS: New Mixed-carbonate Complexes of the Types U-CO2E-U (E = S, Se), U-CS2E-U (E = O, Se) and U-COSSe-U"
-J. Am. Chem. Soc. 2012, 134, 16877–16881.
-
-H.S. La Pierre, H. Kameo, D.P. Halter, F.W. Heinemann and K. Meyer
-"Coordination and Redox Isomerization in the Reduction of a Uranium(III) Monoarene Complex"
-Angew. Chem. Int. Ed. 2014, 53, 7154–7157.
-
-H.S. La Pierre, A. Scheurer, F.W. Heinemann, W. Hieringer and K. Meyer
-"Synthesis and Characterization of a Uranium(II) Monoarene Complex Supported by d Backbonding"
-Angew. Chem. Int. Ed. 2014, 53, 7158–7162.
-
-D.P. Halter, H.S. La Pierre, F.W. Heinemann and K. Meyer
-"Uranium (IV) Halide (F–, Cl–, Br–, and I–) Monoarene Complexes"
-Inorg. Chem. 2014, 53, 8418–8424.
-
-S.M. Franke, M.W. Rosenzweig, F.W. Heinemann and K. Meyer
-"Reactivity of Uranium(III) with H2E (E = S, Se, Te): Synthesis of a Series of Mononuclear and Dinuclear Uranium(IV) Hydrochalcogenido Complexes"
-Chem. Sci. 2015, 6, 275–282.
+1. {% reference halter2016uranium %}
+2. {% reference schmidt2012uranium %}
+3. {% reference franke2014reactivity %}
+4. {% reference lam2012reactivity %}
+5. {% reference pierre2014coordination %}
+6. {% reference pierre2014synthesis %}
+7. {% reference halter2014uranium %}
+8. {% reference franke2015reactivity %}
 
 
 <h2 id="organometallic-chemistry">Organometallic Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
@@ -90,45 +74,43 @@ Spectroscopic evidence for these inter­mediates is often based on studies of we
 The synthesis and characterization of high-valent metal oxo and nitrido model compounds is therefore often key to delineating the nature and reactivity of these unusually reactive species and assigning their role e.g. in water splitting catalysis and ammonia synthesis.
 Insight into the molecular and electronic structure of complexes that stabilize the intermediate [FeºN] entity appears to be valuable in unveiling the key steps of both biological (nitrogenase) and industrial (Haber-Bosch process) NH3 synthesis.
 
-![Meyer Group](/assets/img/FeV_pic.jpg)
+<p>
+  <img src="/assets/img/FeV_pic.jpg" height="200" />
+</p>
 
 The Meyer group’s approach to high-valent complexes is based on our signature tripodal NHC ligands, which provide a powerful platform for small molecule activation chemistry. 
 This is due to the ligand field resulting from the trigonal carbene environment enabling the stabilization of the desired and highly unusual metal to ligand multiple bonds.
 
-![Meyer Group](/assets/img/Carbeneligands_klein.jpg)
+<p>
+  <img src="/assets/img/Carbeneligands_klein.jpg" height="200" />
+</p>
 
 We have discovered that employing tripodal N-heterocyclic carbene chelates developed by us, allows for the synthesis, isolation as well as the structural and spectroscopic characterization of discrete mid- and high valent imido, nitride, and peroxo complexes.
 
 With these ligands we successfully prepared and fully characterized a series of high- and mid-valent manganese, cobalt and iron nitrido complexes. 
 The X-ray structure of the iron(IV) nitrido complex is the first structural verification of the [FeN] synthon that has been recognized as the reactive intermediate in the industrial Haber–Bosch process. 
-Reactivity studies of the Fe(V) species include the reaction of an FeVºN with water to yield ammonia in near quantitative yields.  
+Reactivity studies of the Fe(V) species include the reaction of an FeVºN with water to yield ammonia in near quantitative yields. 
 
-![Meyer Group](/assets/img/FeV_pic_cryst.jpg)
-
-For details, check this out:
-
-
-An Iron Nitride Complex 
-Angew. Chem. Int. Ed. 2008, 47, 2681–2684. get it here, get science editor's choice here, get the "german chemical news" here
+<p>
+  <img src="/assets/img/FeV_pic_cryst.jpg" height="200" />
+</p>
 
 
-Synthesis, Structure, and Reactivity of an Iron(V) Nitride
-Science 2011, 331, 1049–1052. get it here, get RCS highlight here, get C&E News highlight here, get GDCh highlight here, NatChem news & views
+**_For details, check this out:_**
 
-
-Manganese Nitride Complexes in Oxidation States III, IV, and V: Synthesis and Electronic Structure
-J. Am. Chem. Soc. 2012, 134, 15538–15544. get it here
-
-
-An Intermediate Cobalt(IV) Nitrido Complex and its N-Migratory Insertion Product
-J. Am. Chem. Soc. 2014, 136, 15072–15078. get it here
+1. {% reference vogel2008an %}
+2. {% reference broderick2011synthesis %}
+3. {% reference kropp2012manganese %}
+4. {% reference zolnhofer2014an %}
 
 
 <h2 id="heterogeneous-chemistry">Heterogeneous Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
 
 ### Photochemistry: photocatalytic water splitting at doped semiconductor materials
 
-![Meyer Group](/assets/img/Wasserspaltung.png)
+<p>
+  <img src="/assets/img/Wasserspaltung.png" height="100" />
+</p>
 
 <blockquote>
 	<p>
@@ -147,8 +129,9 @@ The overall efficiency of semiconductor catalyzed reactions depends in a complic
 Tantalates have recently attracted attention as a new group of materials for water splitting.
 However, due to bandgap energies of ~ 4.0 eV for most tantalates, light of l ≤ 300 nm is required for excitation and it remains a challenge to extend the response to solar light and increase the photocatalytic activity for water splitting at that.
 
-![Meyer Group](/assets/img/Wasserspaltung_nbsp_02.png)
-
+<p>
+  <img src="/assets/img/Wasserspaltung_nbsp_02.png" height="200" />
+</p>
 
 
 <h2 id="supramolecular-chemistry">Supramolecular Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
@@ -159,11 +142,13 @@ One research project will be the synthesis and stabilization of high-valent earl
 While initial studies will focus on terminal oxo and nitrido complexes, the investigation of a variety of chalcogenido and pnictogenido compounds of V, Cr, Mn and Fe is envisioned. 
 Major goals of this project include in situ spectroscopic characterization of reactive species and exploration of their catalytic applications.
 
-![Meyer Group](/assets/img/supramolec.jpg)
-![Meyer Group](/assets/img/supramolec2.gif)
+<p>
+  <img src="/assets/img/supramolec.jpg" height="200" />
+  <img src="/assets/img/supramolec2.gif" height="200" />
+</p>
 
-Xile Hu & Karsten Meyer
-Identification of Iron Cyclam Complexes Encapsulated Inside Zeolite Y. Inorg. Chim. Acta. 2002, 337, 53-58. Special Edition. get it here
+
+{% reference hu2002identification %}
 
 
 <h2 id="bioinorganic-chemistry">Bioinorganic Chemistry <a href="#menu"><i class="fa fa-arrow-up"></i></a></h2>
@@ -175,6 +160,9 @@ This enzyme HAO catalyzes the four-electron oxidative conversion of hydroxylamin
 The exploration of the complexes' reactivity towards substrates such as NH2OH, N2H4, N2O, and NO is envisioned. 
 The ultimate goal of this research is to broaden our understanding of the interplay of the active site, covalently bound and potentially redox-active side-chains, metal-metal interactions, and electron acceptors during the course of the hydroxylamine oxidation.
 
-![Meyer Group](/assets/img/p460_actsite2.jpg)
-![Meyer Group](/assets/img/bioinorg2.gif)
+<p>
+  <img src="/assets/img/p460_actsite2.jpg" height="200" />
+  <img src="/assets/img/bioinorg2.gif" height="200" />
+</p>
+
 

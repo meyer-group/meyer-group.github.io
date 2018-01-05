@@ -5,7 +5,7 @@ title: "Attention - Office Changes"
 excerpt_separator: <!--more-->
 ---
 
-Because of construction works in the 3rd floor, following offices changed (January to March 2018)!
+Because of construction works in the 3rd floor, the following offices were relocated (January to March 2018)!
 
 <!--more-->
 
