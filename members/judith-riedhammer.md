@@ -1,7 +1,7 @@
 ---
 title: "Judith Riedhammer"
 permalink: /team/judith-riedhammer
-layout: default
+layout: team
 ---
 
 # Judith Riedhammer

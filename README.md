@@ -10,3 +10,5 @@
 ### Build Status
 
 ![Travis Status](https://travis-ci.org/meyer-group/meyer-group.github.io.svg?branch=redesign)
+
+<https://travis-ci.org/meyer-group/meyer-group.github.io>

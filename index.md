@@ -5,7 +5,7 @@ title: "Welcome in the Meyer Group!"
 
 <blockquote>
 	<p>
- "...a life's work in the agony and sweat of the human spirit, not for glory and least of all fot profit, but to create out of the materials of the human spirit something wgich did not exist before."
+ "...a life's work in the agony and sweat of the human spirit, not for glory and least of all for profit, but to create out of the materials of the human spirit something which did not exist before."
  </p>
 	<footer>William Faulkner (*1897, †1962)</footer>
 </blockquote>
