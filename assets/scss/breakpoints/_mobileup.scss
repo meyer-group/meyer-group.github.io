@@ -22,6 +22,10 @@ body {
 	}
 }
 
+.csl-block {
+	color: $primary-color;
+}
+
 // Text Selection Styling
 ::-moz-selection {
 	background: $primary-color;

@@ -17,7 +17,7 @@ pagination:
   indexpage: news
   permalink: /news/:num
 
-exclude: ["_bibliography", "vendor", "_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import"]
+exclude: ["_bibliography", "vendor", "_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import" ]
 
 navigation:
  - title: News
@@ -34,11 +34,12 @@ navigation:
    url: /teaching
 
 scholar:
-  style: https://www.zotero.org/styles/american-chemical-society-with-titles-doi-no-et-al
+  # style: https://www.zotero.org/styles/american-chemical-society-with-titles-doi-no-et-al
+  style: ./_bibliography/elsevier-with-titles.csl
   sort_by: year
   order: descending
-  group_by: year
-  group_order: descending
+  # group_by: year
+  # group_order: descending
   bibliography: bibliography.bib
   bibliography_template: bib
 
