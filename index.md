@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome in the Meyer Group!"
+title: "Welcome to the Meyer Group!"
 ---
 
 <blockquote>
