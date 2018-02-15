@@ -4,5 +4,5 @@
 
 {% if entry.url %}
 {% assign links = entry.url | split: '; ' | uniq %}
-<span>({% for u in links %}<a href="{{u}}">link</a>{% unless foorloop.last %}, {% endunless %}{% endfor %})</span>
+<span>({% for u in links %}<a href="{{u}}">link</a>{% if forloop.last %}){% else %}, {% endif %}{% endfor %}</span>
 {% endif %}

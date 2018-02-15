@@ -15,12 +15,13 @@ title: "Publications"
 	<a href="http://www.analytik-news.de/Presse/2016/54.html" _target="blank">(analytic news)</a>
 </li>
 <li>{% reference malischewski2016isolation %}
-	]<a href="http://apps.webofknowledge.com/InboundService.do?mode=FullRecord&customersID=RID&IsProductCode=Yes&product=WOS&Init=Yes&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com&action=retrieve&SrcApp=RID&SrcAuth=RID&SID=Y2K5QSTTakAgNknlDRE&UT=WOS%3A000381561200035" _target="blank">(get it here)</a>
+	<a href="http://apps.webofknowledge.com/InboundService.do?mode=FullRecord&customersID=RID&IsProductCode=Yes&product=WOS&Init=Yes&Func=Frame&DestFail=http%3A%2F%2Fwww.webofknowledge.com&action=retrieve&SrcApp=RID&SrcAuth=RID&SID=Y2K5QSTTakAgNknlDRE&UT=WOS%3A000381561200035" _target="blank">(get it here)</a>
 </li>
 <li>{% reference schmidt2014molecular %}
 	<a href="http://pubs.acs.org/doi/abs/10.1021/ja411627z" _target="blank">(get it here)</a>
 	<a href="http://pubs.acs.org/doi/pdf/10.1021/ja504528n" _target="blank">(cover)</a>
 	<a href="http://pubs.acs.org/action/showLargeCover?issue=407259848" _target="blank">(spotlight)</a>
+</li>
 <li>{% reference pierre2014synthesis %}
 	<a href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201402050/abstract" _target="blank">(get it here)</a>
 </li>
@@ -40,9 +41,9 @@ title: "Publications"
 <li>{% reference scepaniak2011synthesis %}
 	<a href="http://www.sciencemag.org/content/331/6020/1049.full" _target="blank">(get it here)</a>
 	<a href="/assets/pdf/RSC_NEWS.pdf" _target="blank">(RSC news)</a>
-	<a href="/assets/pdf/C&amp;E%20News.pdf" _target="blank">(C&E news)</a>
+	<a href="/assets/pdf/C&amp;E%20News.pdf" _target="blank">(C&amp;E news)</a>
 	<a href="/assets/pdf/GDCh%20NachrChem.pdf" _target="blank">(GDCh Nachrichten der Chemie)</a>
-	<a href="/assets/pdf/NatChem%20news&amp;views.pdf" _target="blank">(NatChem news&views)</a>
+	<a href="/assets/pdf/NatChem%20news&amp;views.pdf" _target="blank">(NatChem news&amp;views)</a>
 </li>
 <li>{% reference vogel2008an %}
 	<a href="http://www3.interscience.wiley.com/journal/117924280/abstract" _target="blank">(get it here)</a>
@@ -54,10 +55,11 @@ title: "Publications"
 </li>
 <li>{% reference castro-rodriguez2004a %}
 	<a href="http://www.sciencemag.org/cgi/content/abstract/sci;305/5691/1757?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&andorexacttitleabs=and&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&volume=305&firstpage=1757&resourcetype=HWCIT" _target="blank">(get it here)</a>
-	<a href="/assets/pdf/CuENewsUCO2.pdf" _target="blank">(C&E news)</a>
+	<a href="/assets/pdf/CuENewsUCO2.pdf" _target="blank">(C&amp;E news)</a>
 	<a href="/assets/pdf/UOCO-German.jpg" _target="blank">(german chemical news)</a>
 </li>
 </ol>
+
 
 ## Selected Reviews
 
@@ -80,8 +82,8 @@ title: "Publications"
 ## Most cited
 
 <ol>
-<li>{% reference hu2004group %}
-</li>
+<li>{% reference hu2004group %}</li>
+</ol>
 
 ## Bibliography
 
