@@ -1,7 +1,7 @@
 ---
 title: "Dominik Halter"
 permalink: /team/dominik-halter
-layout: default
+layout: page
 ---
 
 # Dominik Halter

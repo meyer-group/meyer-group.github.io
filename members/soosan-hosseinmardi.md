@@ -1,7 +1,7 @@
 ---
 title: "Soosan Hosseinmardi"
 permalink: /team/soosan-hosseinmardi
-layout: team
+layout: page
 ---
 
 # Soosan Hosseinmardi

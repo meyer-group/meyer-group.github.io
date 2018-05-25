@@ -1,7 +1,7 @@
 ---
 title: "Daniel Pividori"
 permalink: /team/daniel-pividori
-layout: default
+layout: page
 ---
 
 # Daniel Pividori

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Miehlich"
 permalink: /team/matthias-miehlich
-layout: default
+layout: page
 ---
 
 # Matthias Miehlich

@@ -1,7 +1,7 @@
 ---
 title: "Martin Keilwerth"
 permalink: /team/martin-keilwerth
-layout: team
+layout: page
 ---
 
 # Martin Keilwerth

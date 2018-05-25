@@ -1,7 +1,7 @@
 ---
 title: "Jana Korzekwa"
 permalink: /team/jana-korzekwa
-layout: default
+layout: page
 ---
 
 # Jana Korzekwa

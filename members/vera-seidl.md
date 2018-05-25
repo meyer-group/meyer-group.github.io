@@ -1,7 +1,7 @@
 ---
 title: "Vera Seidl"
 permalink: /team/vera-seidl
-layout: team
+layout: page
 ---
 
 # Vera Seidl

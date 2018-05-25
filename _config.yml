@@ -1,37 +1,69 @@
-title: "Meyer Group"
-description: "Prof. Dr. Karsten Meyer at Univ. Erlangen-Nuremberg"
+# Site settings
+name: Meyer Group
+email: 
+author: ud25ysaf
 
-url: http://inorganic-chemistry.net
-baseurl: ""
+keywords: jekyll, jekyll theme, jekyll framework, stuffthings
+description: Witty description here.
 
+# Only use this if you are serving your site via Github Pages
+#github:
+#  url: "https://meyer-group.github.io"
+
+header: yes
+#header_sm: images/banner-small.jpg
+#header_med: images/banner-med.jpg
+#header_large: images/banner-large.jpg
+#header_xl: images/banner-xl.jpg
+header_sm: assets/img/picture_webpage_small.jpg
+header_med: assets/img/picture_webpage_medium.jpg
+header_large: assets/img/picture_webpage_large.jpg
+header_xl: assets/img/picture_webpage_xl.jpg
+
+
+#plugins:
+#  - jekyll/scholar
+
+# Exclude our ruby stuff
+exclude: [_bibliography, _legacy, .bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized, images/image_optim_cache.yml]
+
+
+# Build settings
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
 
-plugins: [ 'jekyll-paginate-v2', 'jekyll/scholar' ]
+destination: _site
 
-pagination: 
-  enabled: true
-  debug: false
-  per_page: 10
-  sort_reverse: true
-  indexpage: news
-  permalink: /news/:num
+plugins:
+  - jekyll-feed
+  - jekyll-scholar
 
-exclude: ["_bibliography", "vendor", "_legacy", "node_modules", "Gemfile", "Gemfile.lock", "gulpfile.js", "LICENSE", "package-lock.json", "package.json", "preview.jpg", "README", "import" ]
+feed:
+  path: atom.xml
+  
+# Compress our Css
+#sass:
+#    style: :compressed
 
-navigation:
- - title: News
-   url: /news
- - title: Team
-   url: /team
- - title: Research
-   url: /research
- - title: Lab
-   url: /lab
- - title: Publications
-   url: /publications
- - title: Teaching
-   url: /teaching
+permalink: /blog/:year/:title
+
+#### SEO Stuff
+# Google Analytics
+google_universal_analytics: 
+google_universal_analytics_cookiedomain: auto
+
+# Facebook Opengraph
+facebook_user:
+facebook_app_id:                      #enter your App ID
+facebook_locale: en_US
+facebook_page:                        #the URL of your Facebook Page
+facebook_image:                       #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+
+# Twitter Cards
+twitter_user: 
+twitter_card: true
+twitter_image:                        #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
 scholar:
   # style: https://www.zotero.org/styles/american-chemical-society-with-titles-doi-no-et-al
@@ -42,9 +74,3 @@ scholar:
   # group_order: descending
   bibliography: bibliography.bib
   bibliography_template: bib
-
-social:
-   github: meyer-group
-   email: inorgchem2@fau.de
-
-# google_analytics: "UA-58263416-1"

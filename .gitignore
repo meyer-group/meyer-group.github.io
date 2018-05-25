@@ -1,5 +1,11 @@
 _site
+bin
 .sass-cache
 .DS_Store
 .ruby-version
+.bundle
 node_modules
+vendor
+images/image_optim_cache.yml
+.jekyll-metadata
+.directory

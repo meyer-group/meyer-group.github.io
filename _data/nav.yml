@@ -1,0 +1,51 @@
+- title: "home"
+  href: "/"
+
+- title: "blog"
+  href: "/blog/"
+
+- title: "team"
+  href: "/members/"
+  subcategories:
+    - subtitle: "Karsten Meyer"
+      subhref: "/members/km/"
+    - subtitle: "Students"
+      subhref: "/members/students/"
+    - subtitle: "Postdocs and Visitors"
+      subhref: "/members/postdocs-visitors/"
+    - subtitle: "Academic Staff"
+      subhref: "/members/academic-staff/"
+    - subtitle: "Technical Staff"
+      subhref: "/members/technical-staff/"
+    - subtitle: "Alumni"
+      subhref: "/members/alumni/"
+
+- title: "Research"
+  subcategories:
+    - subtitle: "Actinide Coordination"
+      subhref: "/pages/actinide-coordination/"
+    - subtitle: "Organometallic Chemistry"
+      subhref: "/pages/organometallic/"
+    - subtitle: "Heterogeneous Catalysis"
+      subhref: "/pages/heterogeneous-catalysis/"
+    - subtitle: "Supramolecular Chemistry"
+      subhref: "/pages/supermolecular/"
+    
+  
+- title: "Lab"
+  subcategories:
+    - subtitle: "Synthesis"
+
+- title: "Publications"
+  href: /pages/publications/
+
+- title: "Teaching"
+  href: /pages/teaching/
+
+#  external-subcategories:
+#    - subtitle: "Jekyll forums"
+#      subhref: "https://talk.jekyllrb.com/"
+
+
+#- title: "KM @ FAU"
+#  external: "http://www.chemie.nat.fau.de/personen/karsten-meyer/"

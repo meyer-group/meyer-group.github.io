@@ -1,7 +1,7 @@
 ---
 title: "Sascha Löffler"
 permalink: /team/sascha-loeffler
-layout: team
+layout: page
 ---
 
 # Sascha Löffler

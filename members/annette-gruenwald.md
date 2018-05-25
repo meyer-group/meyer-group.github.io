@@ -1,7 +1,7 @@
 ---
 title: "Annette Grünwald"
 permalink: /team/annette-gruenwald
-layout: team
+layout: page
 ---
 
 # Annette Grünwald

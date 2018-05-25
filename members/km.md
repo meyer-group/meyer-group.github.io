@@ -1,7 +1,7 @@
 ---
 title: "Karsten Meyer"
 layout: page
-permalink: /team/km
+permalink: /members/km/
 ---
 
 <img src="/assets/img/Karsten_Meyer.jpg" class="img-responsive">

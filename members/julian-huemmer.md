@@ -1,7 +1,7 @@
 ---
 title: "Julian Hümmer"
 permalink: /team/julian-huemmer
-layout: default
+layout: page
 ---
 
 # Julian Hümmer

@@ -1,7 +1,7 @@
 ---
 title: "Christopher Hörger"
 permalink: /team/christopher-hoerger
-layout: team
+layout: page
 ---
 
 # Christopher Hörger
