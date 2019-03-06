@@ -1,0 +1,78 @@
+---
+layout: default
+title: Publications
+---
+
+<div class="post">
+  <h1 class="postTitle">{{ page.title }}</h1>
+
+  <h2>Selected Publications</h2>
+  {% for p in site.data.publications.selected %}
+  <p>
+    {{ p.authors }}<br>
+    <em>{{ p.title }}</em><br>
+    {{ p.jour }}
+  </p>
+  {% if p.links %}
+  <ul>
+    {% for l in p.links %}
+    <li><a href="{{ l.href }}">{{ l.href }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+
+  <h2>Most Cited</h2>
+  {% for p in site.data.publications.most_cited %}
+  <p>
+    {{ p.authors }}<br>
+    <em>{{ p.title }}</em><br>
+    {{ p.jour }}
+  </p>
+  {% if p.links %}
+  <ul>
+    {% for l in p.links %}
+    <li><a href="{{ l.href }}">{{ l.href }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+
+  <h2>Selected Review Articles</h2>
+  {% for p in site.data.publications.selected_reviews %}
+  <p>
+    {{ p.authors }}<br>
+    <em>{{ p.title }}</em><br>
+    {{ p.jour }}
+  </p>
+  {% if p.links %}
+  <ul>
+    {% for l in p.links %}
+    <li><a href="{{ l.href }}">{{ l.href }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+
+  <h2>Complete List of Publications</h2>
+
+  {% assign posts_by_year = site.data.publications.publications | group_by:"year" %}
+  {% for y in posts_by_year %}
+  <h3>{{ y.name }}</h3>
+  {% for p in y.items %}
+  <p>
+    {{ p.authors }}<br>
+    <em>{{ p.title }}</em><br>
+    {{ p.jour }}
+  </p>
+  {% if p.links %}
+  <ul>
+    {% for l in p.links %}
+    <li><a href="{{ l.href }}">{{ l.href }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+  
+</div>
